@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 2653467,
+    "Username": "ewelina.zarebska",
+    "Name": "Ewelina Zarebska",
+    "Email": "ewelina.zarebska@makingwaves.com",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/bb4f52e7e7a9d654f7189e72771d293b?s=80&d=identicon",
+    "PrivateToken": "5b4cda00a736a6f74c805fdef5546cfbd05af3328f5698c12e82d68ccd5ad97c",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}

@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "journalpublishing3.dtd">
+<article article-type="research-article" dtd-version="3.0" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">BLT</journal-id>
+<journal-title-group>
+<journal-title>Bulletin of the World Health Organization</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Bull. World Health Organ.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0042-9686</issn>
+<publisher><publisher-name>World Health Organization</publisher-name></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">BLT.13.120287</article-id>
+<article-id pub-id-type="doi">10.2471/BLT.13.120287</article-id>
+<article-categories><subj-group subj-group-type="heading"><subject>Research</subject></subj-group>
+</article-categories>
+<title-group>
+<article-title>The influence of market deregulation on fast food consumption and body mass index: a cross-national time series analysis</article-title>
+<trans-title-group xml:lang="fr"><trans-title xml:lang="fr">Influence de la d&#x00E9;r&#x00E9;glementation du march&#x00E9; sur la consommation de services de restauration rapide et sur l&apos;indice de masse corporelle: analyse d&apos;une s&#x00E9;rie chronologique transnationale</trans-title></trans-title-group>
+<trans-title-group xml:lang="es"><trans-title xml:lang="es">La influencia de la desregulaci&#x00F3;n del mercado en el consumo de comida r&#x00E1;pida y el &#x00ED;ndice de masa corporal: un an&#x00E1;lisis de series temporales entre pa&#x00ED;ses</trans-title></trans-title-group>
+<trans-title-group xml:lang="ar"><trans-title xml:lang="ar">&#x062A;&#x0623;&#x062B;&#x064A;&#x0631; &#x0625;&#x0644;&#x063A;&#x0627;&#x0621; &#x0627;&#x0644;&#x0642;&#x064A;&#x0648;&#x062F; &#x0627;&#x0644;&#x062A;&#x0646;&#x0638;&#x064A;&#x0645;&#x064A;&#x0629; &#x0644;&#x0644;&#x0633;&#x0648;&#x0642; &#x0639;&#x0644;&#x0649; &#x0627;&#x0633;&#x062A;&#x0647;&#x0644;&#x0627;&#x0643; &#x0627;&#x0644;&#x0623;&#x063A;&#x0630;&#x064A;&#x0629; &#x0627;&#x0644;&#x0633;&#x0631;&#x064A;&#x0639;&#x0629; &#x0648;&#x0645;&#x0646;&#x0633;&#x0628; &#x0643;&#x062A;&#x0644;&#x0629; &#x0627;&#x0644;&#x062C;&#x0633;&#x0645;: &#x062A;&#x062D;&#x0644;&#x064A;&#x0644; &#x0627;&#x0644;&#x0633;&#x0644;&#x0633;&#x0644;&#x0629; &#x0627;&#x0644;&#x0632;&#x0645;&#x0646;&#x064A;&#x0629; &#x0639;&#x0628;&#x0631; &#x0627;&#x0644;&#x0648;&#x0637;&#x0646;&#x064A;&#x0629;</trans-title></trans-title-group>
+<trans-title-group xml:lang="zh"><trans-title xml:lang="zh">&#x5E02;&#x573A;&#x653E;&#x5BBD;&#x7BA1;&#x5236;&#x5BF9;&#x5FEB;&#x9910;&#x6D88;&#x8D39;&#x548C;&#x4F53;&#x91CD;&#x6307;&#x6570;&#x7684;&#x5F71;&#x54CD;&#xFF1A;&#x8DE8;&#x56FD;&#x65F6;&#x95F4;&#x5E8F;&#x5217;&#x5206;&#x6790;</trans-title></trans-title-group>
+<trans-title-group xml:lang="ru"><trans-title xml:lang="ru">&#x0412;&#x043B;&#x0438;&#x044F;&#x043D;&#x0438;&#x0435; &#x043E;&#x0442;&#x043C;&#x0435;&#x043D;&#x044B; &#x0433;&#x043E;&#x0441;&#x0443;&#x0434;&#x0430;&#x0440;&#x0441;&#x0442;&#x0432;&#x0435;&#x043D;&#x043D;&#x043E;&#x0433;&#x043E; &#x0440;&#x0435;&#x0433;&#x0443;&#x043B;&#x0438;&#x0440;&#x043E;&#x0432;&#x0430;&#x043D;&#x0438;&#x044F; &#x0440;&#x044B;&#x043D;&#x043A;&#x0430; &#x043D;&#x0430; &#x043F;&#x043E;&#x0442;&#x0440;&#x0435;&#x0431;&#x043B;&#x0435;&#x043D;&#x0438;&#x0435; &#x0431;&#x043B;&#x044E;&#x0434; &#x0431;&#x044B;&#x0441;&#x0442;&#x0440;&#x043E;&#x0433;&#x043E; &#x043F;&#x0438;&#x0442;&#x0430;&#x043D;&#x0438;&#x044F; &#x0438; &#x043D;&#x0430; &#x0438;&#x043D;&#x0434;&#x0435;&#x043A;&#x0441; &#x043C;&#x0430;&#x0441;&#x0441;&#x044B; &#x0442;&#x0435;&#x043B;&#x0430;: &#x043C;&#x0435;&#x0436;&#x043D;&#x0430;&#x0446;&#x0438;&#x043E;&#x043D;&#x0430;&#x043B;&#x044C;&#x043D;&#x044B;&#x0439; &#x0430;&#x043D;&#x0430;&#x043B;&#x0438;&#x0437; &#x0432;&#x0440;&#x0435;&#x043C;&#x0435;&#x043D;&#x043D;&#x044B;&#x0445; &#x0440;&#x044F;&#x0434;&#x043E;&#x0432;</trans-title></trans-title-group>
+<alt-title alt-title-type="author-running-head">Roberto De Vogli et al.</alt-title>
+<alt-title alt-title-type="title-running-head">Fast food, body mass index and market deregulation</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes"><name><surname>De Vogli</surname><given-names>Roberto</given-names></name><xref ref-type="aff" rid="aff1"><sup>a</sup></xref></contrib><contrib contrib-type="author"><name><surname>Kouvonen</surname><given-names>Anne</given-names></name><xref ref-type="aff" rid="aff2"><sup>b</sup></xref></contrib><contrib contrib-type="author"><name><surname>Gimeno</surname><given-names>David</given-names></name><xref ref-type="aff" rid="aff3"><sup>c</sup></xref></contrib>
+<aff id="aff1"><label>a</label>Department of Public Health Sciences, School of Medicine, University of California Davis, One Shields Avenue, Med Sci 1-C, Davis, CA 95616, United States of America (USA).</aff>
+<aff id="aff2"><label>b</label>School of Sociology, Social Policy and Social Work, Queen&#x2019;s University Belfast, Belfast, Northern <country>Ireland</country>.</aff>
+<aff id="aff3"><label>c</label>Division of Epidemiology, Human Genetics and Environmental Health Sciences, The University of Texas Health Science Center at Houston, Houston, <country>USA</country>.</aff>
+</contrib-group>
+<author-notes><corresp id="cor1">Correspondence to Roberto De Vogli (e-mail: <email xlink:href="rdevogli@ucdavis.edu">rdevogli@ucdavis.edu</email>).</corresp></author-notes>
+<pub-date pub-type="ppub"><day>01</day><month>02</month><year>2014</year></pub-date>
+<volume>92</volume>
+<issue>2</issue>
+<fpage>99</fpage>
+<lpage>107A</lpage>
+<history>
+<date date-type="received"><day>28</day><month>02</month><year>2013</year></date><date date-type="rev-recd"><day>23</day><month>09</month><year>2013</year></date><date date-type="accepted"><day>24</day><month>09</month><year>2013</year></date>
+</history>
+<permissions>
+<copyright-statement>(c) World Health Organization (WHO) 2014. All rights reserved.</copyright-statement>
+<copyright-year>2014</copyright-year>
+</permissions>
+<abstract xml:lang="en">
+<title>Abstract</title>
+<sec><title>Objective</title><p>To investigate the effect of fast food consumption on mean population body mass index (BMI) and explore the possible influence of market deregulation on fast food consumption and BMI.</p></sec>
+<sec><title>Methods</title><p>The within-country association between fast food consumption and BMI in 25 high-income member countries of the Organisation for Economic Co-operation and Development between 1999 and 2008 was explored through multivariate panel regression models, after adjustment for per capita gross domestic product, urbanization, trade openness, lifestyle indicators and other covariates. The possible mediating effect of annual per capita intake of soft drinks, animal fats and total calories on the association between fast food consumption and BMI was also analysed. Two-stage least squares regression models were conducted, using economic freedom as an instrumental variable, to study the causal effect of fast food consumption on BMI.</p></sec>
+<sec><title>Findings</title><p>After adjustment for covariates, each 1-unit increase in annual fast food transactions per capita was associated with an increase of 0.033&#x00A0;kg/m<sup>2</sup> in age-standardized BMI (95% confidence interval, CI: 0.013&#x2013;0.052). Only the intake of soft drinks &#x2013; not animal fat or total calories &#x2013; mediated the observed association (<italic>&#x03B2;</italic>:&#x2009;0.030; 95% CI: 0.010&#x2013;0.050). Economic freedom was an independent predictor of fast food consumption (<italic>&#x03B2;</italic>:&#x2009;0.27; 95% CI: 0.16&#x2013;0.37). When economic freedom was used as an instrumental variable, the association between fast food and BMI weakened but remained significant (<italic>&#x03B2;</italic>:&#x2009;0.023; 95% CI: 0.001&#x2013;0.045).</p></sec>
+<sec><title>Conclusion</title><p>Fast food consumption is an independent predictor of mean BMI in high-income countries. Market deregulation policies may contribute to the obesity epidemic by facilitating the spread of fast food.</p></sec>
+</abstract>
+<trans-abstract xml:lang="fr">
+<title>R&#x00E9;sum&#x00E9;</title>
+<sec><title>Objectif</title><p>&#x00C9;tudier l&apos;effet de la consommation de services de restauration rapide sur l&apos;indice de masse corporelle (IMC) moyen d&apos;une population et examiner l&apos;influence possible de la d&#x00E9;r&#x00E9;glementation du march&#x00E9; sur la consommation de services de restauration rapide et sur l&apos;IMC.<bold> </bold></p></sec>
+<sec><title>M&#x00E9;thodes</title><p>La corr&#x00E9;lation, dans un m&#x00EA;me pays, entre la consommation de services de restauration rapide et l&apos;IMC dans 25 pays &#x00E0; revenu &#x00E9;lev&#x00E9; membres de l&apos;Organisation de coop&#x00E9;ration et de d&#x00E9;veloppement &#x00E9;conomiques entre 1999 et 2008 a &#x00E9;t&#x00E9; &#x00E9;tudi&#x00E9;e en utilisant des mod&#x00E8;les de r&#x00E9;gression sur donn&#x00E9;es de panels &#x00E0; plusieurs variables, apr&#x00E8;s ajustement pour le produit int&#x00E9;rieur brut par habitant, l&apos;urbanisation, l&apos;ouverture des march&#x00E9;s, les indicateurs de mode de vie et d&apos;autres covariables. L&apos;effet m&#x00E9;diateur possible de la consommation annuelle par habitant de boissons sans alcool, de graisse animale et de calories totales sur la corr&#x00E9;lation entre la consommation de services de restauration rapide et l&apos;IMC a &#x00E9;galement &#x00E9;t&#x00E9; analys&#x00E9;. Des mod&#x00E8;les de r&#x00E9;gression par la m&#x00E9;thode des moindres carr&#x00E9;s &#x00E0; deux degr&#x00E9;s ont &#x00E9;t&#x00E9; appliqu&#x00E9;s, en utilisant la libert&#x00E9; &#x00E9;conomique comme variable instrumentale, pour &#x00E9;tudier l&apos;effet de causalit&#x00E9; de la consommation de services de restauration rapide sur l&apos;IMC.</p></sec>
+<sec><title>R&#x00E9;sultats</title><p>Apr&#x00E8;s ajustement des covariables, chaque augmentation de 1 unit&#x00E9; dans les transactions annuelles li&#x00E9;es aux services de restauration rapide par habitant est associ&#x00E9;e &#x00E0; une augmentation de 0,033&#x00A0;kg/m<sup>2</sup> de l&apos;IMC normalis&#x00E9; en fonction de l&apos;&#x00E2;ge (intervalle de confiance de 95%, IC: 0,013-0,052). Seule la consommation de boissons non alcoolis&#x00E9;es &#x2013; pas de graisse animale ou de calories totales &#x2013; a eu un effet m&#x00E9;diateur sur l&apos;association observ&#x00E9;e (<italic>&#x03B2;</italic>:&#x2009;0,030; IC &#x00E0; 95%: 0,010-0,050). La libert&#x00E9; &#x00E9;conomique &#x00E9;tait un indicateur pr&#x00E9;visionnel ind&#x00E9;pendant de la consommation de services de restauration rapide (<italic>&#x03B2;</italic>:&#x2009;0,27; IC &#x00E0; 95%: 0,16-0,37). Lorsque la libert&#x00E9; &#x00E9;conomique a &#x00E9;t&#x00E9; utilis&#x00E9;e comme variable instrumentale, l&apos;association entre la restauration rapide et l&apos;IMC est moindre mais reste significative (<italic>&#x03B2;</italic>:&#x2009;0,023; IC &#x00E0; 95%: 0,001-0,045).</p></sec>
+<sec><title>Conclusion</title><p>La consommation de services de restauration rapide est un indicateur pr&#x00E9;visionnel ind&#x00E9;pendant de l&apos;IMC moyen dans les pays &#x00E0; revenu &#x00E9;lev&#x00E9;. Les politiques de d&#x00E9;r&#x00E9;glementation du march&#x00E9; peuvent contribuer &#x00E0; l&apos;&#x00E9;pid&#x00E9;mie d&apos;ob&#x00E9;sit&#x00E9; en facilitant le d&#x00E9;veloppement de services de restauration rapide.</p></sec>
+</trans-abstract>
+<trans-abstract xml:lang="es">
+<title>Resumen</title>
+<sec><title>Objetivo</title><p>Investigar el efecto del consumo de la comida r&#x00E1;pida en el &#x00ED;ndice de masa corporal promedio de la poblaci&#x00F3;n (IMC) y explorar la posible influencia de la desregulaci&#x00F3;n del mercado en el consumo de comida r&#x00E1;pida y el IMC.</p></sec>
+<sec><title>M&#x00E9;todos</title><p>Entre 1999 y 2008, se explor&#x00F3; la relaci&#x00F3;n dentro de los pa&#x00ED;ses entre el consumo de comida r&#x00E1;pida y el IMC en 25 pa&#x00ED;ses de ingresos altos, miembros de la Organizaci&#x00F3;n para la Cooperaci&#x00F3;n y el Desarrollo, a trav&#x00E9;s de modelos de regresi&#x00F3;n de panel multivariante, tras ajustar el producto interior bruto per c&#x00E1;pita, la urbanizaci&#x00F3;n, la apertura comercial, los indicadores de estilo de vida y otras covariables. Tambi&#x00E9;n se analiz&#x00F3; el posible efecto mediador del consumo anual per c&#x00E1;pita de refrescos, grasa animal y calor&#x00ED;as totales en la relaci&#x00F3;n entre el consumo de comida r&#x00E1;pida y el IMC. Se realizaron modelos de regresi&#x00F3;n de m&#x00ED;nimos cuadrados de dos etapas, usando la libertad econ&#x00F3;mica como variable instrumental, para estudiar el efecto causal del consumo de comida r&#x00E1;pida en el IMC.</p></sec>
+<sec><title>Resultados</title><p>Tras corregir las covariables, cada aumento de 1 unidad de transacciones anuales de comida r&#x00E1;pida per c&#x00E1;pita se asoci&#x00F3; con un aumento de 0,033 kg/m<sup>2</sup> del IMC normalizado por edad (intervalo de confianza del 95 %, IC: 0,013&#x2013;0,052). Solo la ingesta de bebidas (no la grasa animal ni las calor&#x00ED;as totales) interfiri&#x00F3; en la asociaci&#x00F3;n observada (<italic>&#x03B2;</italic>:&#x2009;0,030; IC del 95 %: 0,010&#x2013;0,050). La libertad econ&#x00F3;mica funcion&#x00F3; como indicador independiente del consumo de comida r&#x00E1;pida (<italic>&#x03B2;</italic>:&#x2009;0,27; IC del 95 %: 0,16&#x2013;0,37). Cuando se us&#x00F3; la libertad econ&#x00F3;mica como variable fundamental, la relaci&#x00F3;n entre comida r&#x00E1;pida e IMC fue m&#x00E1;s d&#x00E9;bil, pero sigui&#x00F3; siendo significativa (<italic>&#x03B2;</italic>:&#x2009;0,023; IC del 95 %: 0,001&#x2013;0,045).</p></sec>
+<sec><title>Conclusi&#x00F3;n</title><p>El consumo de comida r&#x00E1;pida es un indicador independiente del &#x00ED;ndice de masa corporal promedio en pa&#x00ED;ses de altos ingresos. Las pol&#x00ED;ticas de desregulaci&#x00F3;n del mercado pueden contribuir a la epidemia de obesidad, al facilitar la difusi&#x00F3;n de la comida r&#x00E1;pida.</p></sec>
+</trans-abstract>
+<trans-abstract xml:lang="ar">
+<title>&#x0645;&#x0644;&#x062E;&#x0635;</title>
+<sec><title>&#x0627;&#x0644;&#x063A;&#x0631;&#x0636;</title><p>&#x062A;&#x062D;&#x0631;&#x064A; &#x062A;&#x0623;&#x062B;&#x064A;&#x0631; &#x0627;&#x0633;&#x062A;&#x0647;&#x0644;&#x0627;&#x0643; &#x0627;&#x0644;&#x0623;&#x063A;&#x0630;&#x064A;&#x0629; &#x0627;&#x0644;&#x0633;&#x0631;&#x064A;&#x0639;&#x0629; &#x0639;&#x0644;&#x0649; &#x0645;&#x0646;&#x0633;&#x0628; &#x0643;&#x062A;&#x0644;&#x0629; &#x0627;&#x0644;&#x062C;&#x0633;&#x0645; &#x0644;&#x0645;&#x062A;&#x0648;&#x0633;&#x0637; &#x0627;&#x0644;&#x0633;&#x0643;&#x0627;&#x0646; &#x0648;&#x0627;&#x0633;&#x062A;&#x0643;&#x0634;&#x0627;&#x0641; &#x0627;&#x0644;&#x062A;&#x0623;&#x062B;&#x064A;&#x0631; &#x0627;&#x0644;&#x0645;&#x062D;&#x062A;&#x0645;&#x0644; &#x0644;&#x0625;&#x0644;&#x063A;&#x0627;&#x0621; &#x0627;&#x0644;&#x0642;&#x064A;&#x0648;&#x062F; &#x0627;&#x0644;&#x062A;&#x0646;&#x0638;&#x064A;&#x0645;&#x064A;&#x0629; &#x0644;&#x0644;&#x0633;&#x0648;&#x0642; &#x0639;&#x0644;&#x0649; &#x0627;&#x0633;&#x062A;&#x0647;&#x0644;&#x0627;&#x0643; &#x0627;&#x0644;&#x0623;&#x063A;&#x0630;&#x064A;&#x0629; &#x0627;&#x0644;&#x0633;&#x0631;&#x064A;&#x0639;&#x0629; &#x0648;&#x0645;&#x0646;&#x0633;&#x0628; &#x0643;&#x062A;&#x0644;&#x0629; &#x0627;&#x0644;&#x062C;&#x0633;&#x0645;.</p></sec>
+<sec><title>&#x0627;&#x0644;&#x0637;&#x0631;&#x064A;&#x0642;&#x0629;</title><p>&#x062A;&#x0645; &#x0627;&#x0633;&#x062A;&#x0643;&#x0634;&#x0627;&#x0641; &#x0627;&#x0644;&#x0627;&#x0631;&#x062A;&#x0628;&#x0627;&#x0637; &#x062F;&#x0627;&#x062E;&#x0644; &#x0627;&#x0644;&#x0628;&#x0644;&#x062F; &#x0628;&#x064A;&#x0646; &#x0627;&#x0633;&#x062A;&#x0647;&#x0644;&#x0627;&#x0643; &#x0627;&#x0644;&#x0623;&#x063A;&#x0630;&#x064A;&#x0629; &#x0627;&#x0644;&#x0633;&#x0631;&#x064A;&#x0639;&#x0629; &#x0648;&#x0645;&#x0646;&#x0633;&#x0628; &#x0643;&#x062A;&#x0644;&#x0629; &#x0627;&#x0644;&#x062C;&#x0633;&#x0645; &#x0641;&#x064A; 25 &#x0628;&#x0644;&#x062F;&#x0627;&#x064B; &#x0645;&#x0646; &#x0627;&#x0644;&#x0628;&#x0644;&#x062F;&#x0627;&#x0646; &#x0627;&#x0644;&#x0623;&#x0639;&#x0636;&#x0627;&#x0621; &#x0630;&#x0627;&#x062A; &#x0627;&#x0644;&#x062F;&#x062E;&#x0644; &#x0627;&#x0644;&#x0645;&#x0631;&#x062A;&#x0641;&#x0639; &#x0641;&#x064A; &#x0645;&#x0646;&#x0638;&#x0645;&#x0629; &#x0627;&#x0644;&#x062A;&#x0639;&#x0627;&#x0648;&#x0646; &#x0648;&#x0627;&#x0644;&#x062A;&#x0646;&#x0645;&#x064A;&#x0629; &#x0641;&#x064A; &#x0627;&#x0644;&#x0645;&#x064A;&#x062F;&#x0627;&#x0646; &#x0627;&#x0644;&#x0627;&#x0642;&#x062A;&#x0635;&#x0627;&#x062F;&#x064A; &#x0628;&#x064A;&#x0646; &#x0639;&#x0627;&#x0645;&#x064A; 1999 &#x0648;2008 &#x0645;&#x0646; &#x062E;&#x0644;&#x0627;&#x0644; &#x0646;&#x0645;&#x0627;&#x0630;&#x062C; &#x0627;&#x0631;&#x062A;&#x062F;&#x0627;&#x062F; &#x0625;&#x062D;&#x0635;&#x0627;&#x0626;&#x064A;&#x0629; &#x0645;&#x062A;&#x0639;&#x062F;&#x062F;&#x0629; &#x0627;&#x0644;&#x0645;&#x062A;&#x063A;&#x064A;&#x0631;&#x0627;&#x062A;&#x060C; &#x0628;&#x0639;&#x062F; &#x0627;&#x0644;&#x062A;&#x0639;&#x062F;&#x064A;&#x0644; &#x0644;&#x0625;&#x062C;&#x0645;&#x0627;&#x0644;&#x064A; &#x0627;&#x0644;&#x0646;&#x0627;&#x062A;&#x062C; &#x0627;&#x0644;&#x0645;&#x062D;&#x0644;&#x064A; &#x0644;&#x0644;&#x0641;&#x0631;&#x062F;&#x060C; &#x0648;&#x0627;&#x0644;&#x062A;&#x062D;&#x0648;&#x0644; &#x0627;&#x0644;&#x062D;&#x0636;&#x0631;&#x064A;&#x060C; &#x0648;&#x0627;&#x0644;&#x0627;&#x0646;&#x0641;&#x062A;&#x0627;&#x062D; &#x0627;&#x0644;&#x062A;&#x062C;&#x0627;&#x0631;&#x064A;&#x060C; &#x0648;&#x0645;&#x0624;&#x0634;&#x0631;&#x0627;&#x062A; &#x0646;&#x0645;&#x0637; &#x0627;&#x0644;&#x062D;&#x064A;&#x0627;&#x0629; &#x0648;&#x0627;&#x0644;&#x0645;&#x062A;&#x063A;&#x064A;&#x0631;&#x0627;&#x062A; &#x0627;&#x0644;&#x0645;&#x0634;&#x062A;&#x0631;&#x0643;&#x0629; &#x0627;&#x0644;&#x0623;&#x062E;&#x0631;&#x0649;. &#x0648;&#x062A;&#x0645; &#x0623;&#x064A;&#x0636;&#x0627;&#x064B; &#x062A;&#x062D;&#x0644;&#x064A;&#x0644; &#x0627;&#x0644;&#x062A;&#x0623;&#x062B;&#x064A;&#x0631; &#x0627;&#x0644;&#x0645;&#x062A;&#x0648;&#x0633;&#x0637; &#x0627;&#x0644;&#x0645;&#x062D;&#x062A;&#x0645;&#x0644; &#x0644;&#x0645;&#x062F;&#x062E;&#x0648;&#x0644; &#x0627;&#x0644;&#x0627;&#x0633;&#x062A;&#x0647;&#x0644;&#x0627;&#x0643; &#x0627;&#x0644;&#x0641;&#x0631;&#x062F;&#x064A; &#x0627;&#x0644;&#x0633;&#x0646;&#x0648;&#x064A; &#x0645;&#x0646; &#x0627;&#x0644;&#x0645;&#x0634;&#x0631;&#x0648;&#x0628;&#x0627;&#x062A; &#x063A;&#x064A;&#x0631; &#x0627;&#x0644;&#x0643;&#x062D;&#x0648;&#x0644;&#x064A;&#x0629;&#x060C; &#x0648;&#x0627;&#x0644;&#x062F;&#x0647;&#x0646; &#x0627;&#x0644;&#x062D;&#x064A;&#x0648;&#x0627;&#x0646;&#x064A;&#x060C; &#x0648;&#x0625;&#x062C;&#x0645;&#x0627;&#x0644;&#x064A; &#x0627;&#x0644;&#x0633;&#x0639;&#x0631;&#x0627;&#x062A; &#x0627;&#x0644;&#x062D;&#x0631;&#x0627;&#x0631;&#x064A;&#x0629; &#x0639;&#x0644;&#x0649; &#x0627;&#x0644;&#x0627;&#x0631;&#x062A;&#x0628;&#x0627;&#x0637; &#x0628;&#x064A;&#x0646; &#x0627;&#x0633;&#x062A;&#x0647;&#x0644;&#x0627;&#x0643; &#x0627;&#x0644;&#x0623;&#x063A;&#x0630;&#x064A;&#x0629; &#x0627;&#x0644;&#x0633;&#x0631;&#x064A;&#x0639;&#x0629; &#x0648;&#x0645;&#x0646;&#x0633;&#x0628; &#x0643;&#x062A;&#x0644;&#x0629; &#x0627;&#x0644;&#x062C;&#x0633;&#x0645;. &#x0648;&#x062A;&#x0645; &#x0625;&#x062C;&#x0631;&#x0627;&#x0621; &#x0646;&#x0645;&#x0627;&#x0630;&#x062C; &#x0627;&#x0631;&#x062A;&#x062F;&#x0627;&#x062F; &#x0644;&#x0644;&#x0645;&#x0631;&#x0628;&#x0639;&#x0627;&#x062A; &#x0627;&#x0644;&#x062F;&#x0646;&#x064A;&#x0627; &#x0639;&#x0644;&#x0649; &#x0645;&#x0631;&#x062D;&#x0644;&#x062A;&#x064A;&#x0646;&#x060C; &#x0628;&#x0627;&#x0633;&#x062A;&#x062E;&#x062F;&#x0627;&#x0645; &#x0627;&#x0644;&#x062D;&#x0631;&#x064A;&#x0629; &#x0627;&#x0644;&#x0627;&#x0642;&#x062A;&#x0635;&#x0627;&#x062F;&#x064A;&#x0629; &#x0643;&#x0645;&#x062A;&#x063A;&#x064A;&#x0631; &#x0645;&#x0633;&#x0627;&#x0639;&#x062F;&#x060C; &#x0644;&#x062F;&#x0631;&#x0627;&#x0633;&#x0629; &#x0627;&#x0644;&#x062A;&#x0623;&#x062B;&#x064A;&#x0631; &#x0627;&#x0644;&#x0627;&#x0639;&#x062A;&#x064A;&#x0627;&#x062F;&#x064A; &#x0644;&#x0627;&#x0633;&#x062A;&#x0647;&#x0644;&#x0627;&#x0643; &#x0627;&#x0644;&#x0623;&#x063A;&#x0630;&#x064A;&#x0629; &#x0627;&#x0644;&#x0633;&#x0631;&#x064A;&#x0639;&#x0629; &#x0639;&#x0644;&#x0649; &#x0645;&#x0646;&#x0633;&#x0628; &#x0643;&#x062A;&#x0644;&#x0629; &#x0627;&#x0644;&#x062C;&#x0633;&#x0645;.</p></sec>
+<sec><title>&#x0627;&#x0644;&#x0646;&#x062A;&#x0627;&#x0626;&#x062C;</title><p>&#x0628;&#x0639;&#x062F; &#x062A;&#x0639;&#x062F;&#x064A;&#x0644; &#x0627;&#x0644;&#x0645;&#x062A;&#x063A;&#x064A;&#x0631;&#x0627;&#x062A; &#x0627;&#x0644;&#x0645;&#x0634;&#x062A;&#x0631;&#x0643;&#x0629;&#x060C; &#x062A;&#x0645; &#x0627;&#x0644;&#x0631;&#x0628;&#x0637; &#x0628;&#x064A;&#x0646; &#x0643;&#x0644; &#x0632;&#x064A;&#x0627;&#x062F;&#x0629; &#x0628;&#x0645;&#x0642;&#x062F;&#x0627;&#x0631; &#x0648;&#x062D;&#x062F;&#x0629; &#x0648;&#x0627;&#x062D;&#x062F;&#x0629; &#x0641;&#x064A; &#x0645;&#x0639;&#x0627;&#x0645;&#x0644;&#x0627;&#x062A; &#x0627;&#x0644;&#x0623;&#x063A;&#x0630;&#x064A;&#x0629; &#x0627;&#x0644;&#x0633;&#x0631;&#x064A;&#x0639;&#x0629; &#x0627;&#x0644;&#x0633;&#x0646;&#x0648;&#x064A;&#x0629; &#x0644;&#x0644;&#x0641;&#x0631;&#x062F; &#x0648;&#x0628;&#x064A;&#x0646; &#x0632;&#x064A;&#x0627;&#x062F;&#x0629; &#x0642;&#x062F;&#x0631;&#x0647;&#x0627; 0.033 &#x0643;&#x062C;&#x0645;/&#x0645;<sup>3</sup> &#x0641;&#x064A; &#x0645;&#x0646;&#x0633;&#x0628; &#x0643;&#x062A;&#x0644;&#x0629; &#x0627;&#x0644;&#x062C;&#x0633;&#x0645; &#x062D;&#x0633;&#x0628; &#x0627;&#x0644;&#x0639;&#x0645;&#x0631; (&#x0641;&#x0627;&#x0635;&#x0644; &#x0627;&#x0644;&#x062B;&#x0642;&#x0629; 95&#x00A0;%&#x060C; &#x0641;&#x0627;&#x0635;&#x0644; &#x0627;&#x0644;&#x062B;&#x0642;&#x0629;: 0.013 &#x2013; 0.052). &#x0648;&#x062A;&#x0648;&#x0633;&#x0637; &#x0645;&#x062F;&#x062E;&#x0648;&#x0644; &#x0627;&#x0644;&#x0645;&#x0634;&#x0631;&#x0648;&#x0628;&#x0627;&#x062A; &#x0627;&#x0644;&#x0628;&#x0627;&#x0631;&#x062F;&#x0629; &#x0641;&#x0642;&#x0637; &#x2013; &#x0648;&#x0644;&#x064A;&#x0633; &#x0627;&#x0644;&#x062F;&#x0647;&#x0646; &#x0627;&#x0644;&#x062D;&#x064A;&#x0648;&#x0627;&#x0646;&#x064A; &#x0623;&#x0648; &#x0625;&#x062C;&#x0645;&#x0627;&#x0644;&#x064A; &#x0627;&#x0644;&#x0633;&#x0639;&#x0631;&#x0627;&#x062A; &#x0627;&#x0644;&#x062D;&#x0631;&#x0627;&#x0631;&#x064A;&#x0629; &#x2013; &#x0627;&#x0644;&#x0627;&#x0631;&#x062A;&#x0628;&#x0627;&#x0637; &#x0627;&#x0644;&#x062E;&#x0627;&#x0636;&#x0639; &#x0644;&#x0644;&#x0645;&#x0644;&#x0627;&#x062D;&#x0638;&#x0629; (&#x0628;&#x064A;&#x062A;&#x0627;: 0.030&#x061B; &#x0641;&#x0627;&#x0635;&#x0644; &#x0627;&#x0644;&#x062B;&#x0642;&#x0629; 95&#x00A0;%&#x060C; &#x0641;&#x0627;&#x0635;&#x0644; &#x0627;&#x0644;&#x062B;&#x0642;&#x0629;: 0.010 &#x2013; 0.050). &#x0648;&#x0643;&#x0627;&#x0646;&#x062A; &#x0627;&#x0644;&#x062D;&#x0631;&#x064A;&#x0629; &#x0627;&#x0644;&#x0627;&#x0642;&#x062A;&#x0635;&#x0627;&#x062F;&#x064A;&#x0629; &#x0645;&#x0646;&#x0628;&#x0626; &#x0645;&#x0633;&#x062A;&#x0642;&#x0644; &#x0644;&#x0627;&#x0633;&#x062A;&#x0647;&#x0644;&#x0627;&#x0643; &#x0627;&#x0644;&#x0623;&#x063A;&#x0630;&#x064A;&#x0629; &#x0627;&#x0644;&#x0633;&#x0631;&#x064A;&#x0639;&#x0629; (&#x0628;&#x064A;&#x062A;&#x0627;: 0.27&#x061B; &#x0641;&#x0627;&#x0635;&#x0644; &#x0627;&#x0644;&#x062B;&#x0642;&#x0629; 95&#x00A0;%&#x060C; &#x0641;&#x0627;&#x0635;&#x0644; &#x0627;&#x0644;&#x062B;&#x0642;&#x0629;: 0.16 &#x2013; 0.37). &#x0648;&#x0639;&#x0646;&#x062F; &#x0627;&#x0633;&#x062A;&#x062E;&#x062F;&#x0627;&#x0645; &#x0627;&#x0644;&#x062D;&#x0631;&#x064A;&#x0629; &#x0627;&#x0644;&#x0627;&#x0642;&#x062A;&#x0635;&#x0627;&#x062F;&#x064A;&#x0629; &#x0643;&#x0645;&#x062A;&#x063A;&#x064A;&#x0631; &#x0645;&#x0633;&#x0627;&#x0639;&#x062F;&#x060C; &#x0636;&#x0639;&#x0641; &#x0627;&#x0644;&#x0627;&#x0631;&#x062A;&#x0628;&#x0627;&#x0637; &#x0628;&#x064A;&#x0646; &#x0627;&#x0644;&#x0623;&#x063A;&#x0630;&#x064A;&#x0629; &#x0627;&#x0644;&#x0633;&#x0631;&#x064A;&#x0639;&#x0629; &#x0648;&#x0645;&#x0646;&#x0633;&#x0628; &#x0643;&#x062A;&#x0644;&#x0629; &#x0627;&#x0644;&#x062C;&#x0633;&#x0645; &#x0648;&#x0644;&#x0643;&#x0646;&#x0647; &#x0638;&#x0644; &#x0643;&#x0628;&#x064A;&#x0631;&#x0627;&#x064B; (&#x0628;&#x064A;&#x062A;&#x0627;: 0.023&#x061B; &#x0641;&#x0627;&#x0635;&#x0644; &#x0627;&#x0644;&#x062B;&#x0642;&#x0629; 95&#x00A0;%&#x060C; &#x0641;&#x0627;&#x0635;&#x0644; &#x0627;&#x0644;&#x062B;&#x0642;&#x0629;: 0.001 &#x2013; 0.045).</p></sec>
+<sec><title>&#x0627;&#x0644;&#x0627;&#x0633;&#x062A;&#x0646;&#x062A;&#x0627;&#x062C;</title><p>&#x064A;&#x0639;&#x062F; &#x0627;&#x0633;&#x062A;&#x0647;&#x0644;&#x0627;&#x0643; &#x0627;&#x0644;&#x0623;&#x063A;&#x0630;&#x064A;&#x0629; &#x0627;&#x0644;&#x0633;&#x0631;&#x064A;&#x0639;&#x0629; &#x0645;&#x0646;&#x0628;&#x0626; &#x0645;&#x0633;&#x062A;&#x0642;&#x0644; &#x0644;&#x0645;&#x062A;&#x0648;&#x0633;&#x0637; &#x0645;&#x0646;&#x0633;&#x0628; &#x0643;&#x062A;&#x0644;&#x0629; &#x0627;&#x0644;&#x062C;&#x0633;&#x0645; &#x0641;&#x064A; &#x0627;&#x0644;&#x0628;&#x0644;&#x062F;&#x0627;&#x0646; &#x0630;&#x0627;&#x062A; &#x0627;&#x0644;&#x062F;&#x062E;&#x0644; &#x0627;&#x0644;&#x0645;&#x0631;&#x062A;&#x0641;&#x0639;. &#x0648;&#x0645;&#x0646; &#x0627;&#x0644;&#x0645;&#x0645;&#x0643;&#x0646; &#x0623;&#x0646; &#x062A;&#x0633;&#x0647;&#x0645; &#x0633;&#x064A;&#x0627;&#x0633;&#x0627;&#x062A; &#x0625;&#x0644;&#x063A;&#x0627;&#x0621; &#x0627;&#x0644;&#x0642;&#x064A;&#x0648;&#x062F; &#x0627;&#x0644;&#x062A;&#x0646;&#x0638;&#x064A;&#x0645;&#x064A;&#x0629; &#x0644;&#x0644;&#x0633;&#x0648;&#x0642; &#x0641;&#x064A; &#x0648;&#x0628;&#x0627;&#x0621; &#x0627;&#x0644;&#x0633;&#x0645;&#x0646;&#x0629; &#x0645;&#x0646; &#x062E;&#x0644;&#x0627;&#x0644; &#x062A;&#x0633;&#x0647;&#x064A;&#x0644; &#x0627;&#x0646;&#x062A;&#x0634;&#x0627;&#x0631; &#x0627;&#x0644;&#x0623;&#x063A;&#x0630;&#x064A;&#x0629; &#x0627;&#x0644;&#x0633;&#x0631;&#x064A;&#x0639;&#x0629;.</p></sec>
+</trans-abstract>
+<trans-abstract xml:lang="zh">
+<title>&#x6458;&#x8981;</title>
+<sec><title>&#x76EE;&#x7684;</title><p>&#x8C03;&#x67E5;&#x5FEB;&#x9910;&#x6D88;&#x8D39;&#x5BF9;&#x5E73;&#x5747;&#x4EBA;&#x53E3;&#x4F53;&#x8D28;&#x6307;&#x6570;&#xFF08;BMI&#xFF09;&#x7684;&#x5F71;&#x54CD;&#xFF0C;&#x63A2;&#x7D22;&#x5E02;&#x573A;&#x653E;&#x5BBD;&#x7BA1;&#x5236;&#x5BF9;&#x5FEB;&#x9910;&#x6D88;&#x8D39;&#x548C;BMI&#x7684;&#x53EF;&#x80FD;&#x5F71;&#x54CD;&#x3002;</p></sec>
+<sec><title>&#x65B9;&#x6CD5;</title><p>&#x5728;&#x9488;&#x5BF9;&#x4EBA;&#x5747;&#x56FD;&#x5185;&#x751F;&#x4EA7;&#x603B;&#x503C;&#x3001;&#x57CE;&#x5E02;&#x5316;&#x3001;&#x8D38;&#x6613;&#x5F00;&#x653E;&#x3001;&#x751F;&#x6D3B;&#x65B9;&#x5F0F;&#x6307;&#x6807;&#x548C;&#x5176;&#x4ED6;&#x534F;&#x53D8;&#x91CF;&#x7684;&#x8C03;&#x6574;&#x4E4B;&#x540E;&#xFF0C;&#x901A;&#x8FC7;&#x591A;&#x5143;&#x9762;&#x677F;&#x56DE;&#x5F52;&#x6A21;&#x578B;&#x63A2;&#x7A76;1999 &#x5E74;&#x81F3;2008 &#x5E74;&#x7ECF;&#x6D4E;&#x5408;&#x4F5C;&#x4E0E;&#x53D1;&#x5C55;&#x7EC4;&#x7EC7;&#x7684;25 &#x4E2A;&#x9AD8;&#x6536;&#x5165;&#x6210;&#x5458;&#x56FD;&#x7684;&#x5FEB;&#x9910;&#x6D88;&#x8D39;&#x548C;BMI&#x4E4B;&#x95F4;&#x7684;&#x56FD;&#x5185;&#x76F8;&#x5173;&#x6027;&#x3002;&#x8FD8;&#x5206;&#x6790;&#x4E86;&#x5E74;&#x5EA6;&#x4EBA;&#x5747;&#x8F6F;&#x996E;&#x6599;&#x3001;&#x52A8;&#x7269;&#x8102;&#x80AA;&#x548C;&#x603B;&#x70ED;&#x91CF;&#x6444;&#x5165;&#x91CF;&#x5BF9;&#x5FEB;&#x9910;&#x6D88;&#x8D39;&#x548C;BMI&#x4E4B;&#x95F4;&#x5173;&#x8054;&#x53EF;&#x80FD;&#x7684;&#x4E2D;&#x4ECB;&#x6548;&#x5E94;&#x3002;&#x4F7F;&#x7528;&#x7ECF;&#x6D4E;&#x81EA;&#x7531;&#x5EA6;&#x4F5C;&#x4E3A;&#x5DE5;&#x5177;&#x53D8;&#x91CF;&#xFF0C;&#x6267;&#x884C;&#x4E24;&#x6B65;&#x6700;&#x5C0F;&#x4E8C;&#x4E58;&#x6CD5;&#x56DE;&#x5F52;&#x6A21;&#x578B;&#xFF0C;&#x7814;&#x7A76;&#x5FEB;&#x9910;&#x6D88;&#x8D39;&#x5BF9;BMI&#x7684;&#x56E0;&#x679C;&#x6548;&#x5E94;&#x3002;</p></sec>
+<sec><title>&#x7ED3;&#x679C;</title><p>&#x5728;&#x8C03;&#x6574;&#x534F;&#x53D8;&#x91CF;&#x4E4B;&#x540E;&#xFF0C;&#x5E74;&#x5EA6;&#x4EBA;&#x5747;&#x5FEB;&#x9910;&#x4EA4;&#x6613;&#x6BCF;&#x589E;&#x52A0;&#x4E00;&#x4E2A;&#x5355;&#x4F4D;&#x4E0E;&#x5E74;&#x9F84;&#x6807;&#x51C6;&#x5316;BMI&#x589E;&#x52A0;0.033&#x00A0;kg/m<sup>2</sup>&#x76F8;&#x5173;&#x8054;&#xFF08;95%&#x7F6E;&#x4FE1;&#x533A;&#x95F4;&#xFF0C;CI&#xFF1A;0.013-0.052&#xFF09;&#x3002;&#x53EA;&#x6709;&#x8F6F;&#x996E;&#x6599;&#x7684;&#x6444;&#x5165;&#xFF08;&#x975E;&#x52A8;&#x7269;&#x8102;&#x80AA;&#x6216;&#x603B;&#x70ED;&#x91CF;&#xFF09;&#x5BF9;&#x6240;&#x89C2;&#x5BDF;&#x5230;&#x7684;&#x5173;&#x8054;&#x5177;&#x6709;&#x4E2D;&#x4ECB;&#x6548;&#x5E94;&#xFF08;<italic>&#x03B2;</italic>&#xFF1A;0.030&#xFF1B;95%&#xFF0C;CI&#xFF1A;0.010-0.050&#xFF09;&#x3002;&#x7ECF;&#x6D4E;&#x72EC;&#x7ACB;&#x6027;&#x662F;&#x5FEB;&#x9910;&#x6D88;&#x8D39;&#x7684;&#x72EC;&#x7ACB;&#x9884;&#x6D4B;&#x6307;&#x6807;&#xFF08;<italic>&#x03B2;</italic>&#xFF1A;0.27&#xFF1B;95%&#xFF0C;CI&#xFF1A;0.16-0.37&#xFF09;&#x3002;&#x4F7F;&#x7528;&#x7ECF;&#x6D4E;&#x72EC;&#x7ACB;&#x6027;&#x4F5C;&#x4E3A;&#x5DE5;&#x5177;&#x53D8;&#x91CF;&#x65F6;&#xFF0C;&#x5FEB;&#x9910;&#x548C;BMI&#x4E4B;&#x95F4;&#x7684;&#x5173;&#x7CFB;&#x5F31;&#x5316;&#xFF0C;&#x4F46;&#x662F;&#x4F9D;&#x7136;&#x5177;&#x6709;&#x663E;&#x8457;&#x6027;&#xFF08;<italic>&#x03B2;</italic>&#xFF1A;0.023&#xFF1B;95%&#xFF0C;CI&#xFF1A;0.001-0.045&#xFF09;&#x3002;</p></sec>
+<sec><title>&#x7ED3;&#x8BBA;</title><p>&#x5FEB;&#x9910;&#x6D88;&#x8D39;&#x662F;&#x9AD8;&#x6536;&#x5165;&#x56FD;&#x5BB6;&#x5E73;&#x5747;BMI&#x7684;&#x72EC;&#x7ACB;&#x9884;&#x6D4B;&#x6307;&#x6807;&#x3002;&#x5E02;&#x573A;&#x653E;&#x5BBD;&#x7BA1;&#x5236;&#x653F;&#x7B56;&#x4FC3;&#x8FDB;&#x5FEB;&#x9910;&#x63A8;&#x5E7F;&#xFF0C;&#x52A9;&#x957F;&#x80A5;&#x80D6;&#x75C7;&#x6D41;&#x884C;&#x3002;</p></sec>
+</trans-abstract>
+<trans-abstract xml:lang="ru">
+<title>&#x0420;&#x0435;&#x0437;&#x044E;&#x043C;&#x0435;</title>
+<sec><title>&#x0426;&#x0435;&#x043B;&#x044C;</title><p>&#x0418;&#x0441;&#x0441;&#x043B;&#x0435;&#x0434;&#x043E;&#x0432;&#x0430;&#x0442;&#x044C; &#x0432;&#x043B;&#x0438;&#x044F;&#x043D;&#x0438;&#x0435; &#x043F;&#x043E;&#x0442;&#x0440;&#x0435;&#x0431;&#x043B;&#x0435;&#x043D;&#x0438;&#x044F; &#x0431;&#x043B;&#x044E;&#x0434; &#x0431;&#x044B;&#x0441;&#x0442;&#x0440;&#x043E;&#x0433;&#x043E; &#x043F;&#x0438;&#x0442;&#x0430;&#x043D;&#x0438;&#x044F; &#x043D;&#x0430; &#x0441;&#x0440;&#x0435;&#x0434;&#x043D;&#x0435;&#x043F;&#x043E;&#x043F;&#x0443;&#x043B;&#x044F;&#x0446;&#x0438;&#x043E;&#x043D;&#x043D;&#x044B;&#x0439; &#x0438;&#x043D;&#x0434;&#x0435;&#x043A;&#x0441; &#x043C;&#x0430;&#x0441;&#x0441;&#x044B; &#x0442;&#x0435;&#x043B;&#x0430; (&#x0418;&#x041C;&#x0422;), &#x0430; &#x0442;&#x0430;&#x043A;&#x0436;&#x0435; &#x0438;&#x0437;&#x0443;&#x0447;&#x0438;&#x0442;&#x044C; &#x0432;&#x043E;&#x0437;&#x043C;&#x043E;&#x0436;&#x043D;&#x043E;&#x0435; &#x0432;&#x043B;&#x0438;&#x044F;&#x043D;&#x0438;&#x0435; &#x043E;&#x0442;&#x043C;&#x0435;&#x043D;&#x044B; &#x0433;&#x043E;&#x0441;&#x0443;&#x0434;&#x0430;&#x0440;&#x0441;&#x0442;&#x0432;&#x0435;&#x043D;&#x043D;&#x043E;&#x0433;&#x043E; &#x0440;&#x0435;&#x0433;&#x0443;&#x043B;&#x0438;&#x0440;&#x043E;&#x0432;&#x0430;&#x043D;&#x0438;&#x044F; &#x0440;&#x044B;&#x043D;&#x043A;&#x0430; &#x043D;&#x0430; &#x043F;&#x043E;&#x0442;&#x0440;&#x0435;&#x0431;&#x043B;&#x0435;&#x043D;&#x0438;&#x0435; &#x0431;&#x043B;&#x044E;&#x0434; &#x0431;&#x044B;&#x0441;&#x0442;&#x0440;&#x043E;&#x0433;&#x043E; &#x043F;&#x0438;&#x0442;&#x0430;&#x043D;&#x0438;&#x044F; &#x0438; &#x0418;&#x041C;&#x0422;.</p></sec>
+<sec><title>&#x041C;&#x0435;&#x0442;&#x043E;&#x0434;&#x044B;</title><p>&#x0412; 25&#x00A0;&#x0441;&#x0442;&#x0440;&#x0430;&#x043D;&#x0430;&#x0445;-&#x0447;&#x043B;&#x0435;&#x043D;&#x0430;&#x0445; &#x041E;&#x0440;&#x0433;&#x0430;&#x043D;&#x0438;&#x0437;&#x0430;&#x0446;&#x0438;&#x0438; &#x044D;&#x043A;&#x043E;&#x043D;&#x043E;&#x043C;&#x0438;&#x0447;&#x0435;&#x0441;&#x043A;&#x043E;&#x0433;&#x043E; &#x0441;&#x043E;&#x0442;&#x0440;&#x0443;&#x0434;&#x043D;&#x0438;&#x0447;&#x0435;&#x0441;&#x0442;&#x0432;&#x0430; &#x0438; &#x0440;&#x0430;&#x0437;&#x0432;&#x0438;&#x0442;&#x0438;&#x044F; &#x0441; &#x0432;&#x044B;&#x0441;&#x043E;&#x043A;&#x0438;&#x043C; &#x0443;&#x0440;&#x043E;&#x0432;&#x043D;&#x0435;&#x043C; &#x0434;&#x043E;&#x0445;&#x043E;&#x0434;&#x043E;&#x0432; &#x0431;&#x044B;&#x043B;&#x043E; &#x043F;&#x0440;&#x043E;&#x0432;&#x0435;&#x0434;&#x0435;&#x043D;&#x043E; &#x0438;&#x0441;&#x0441;&#x043B;&#x0435;&#x0434;&#x043E;&#x0432;&#x0430;&#x043D;&#x0438;&#x0435; &#x0432;&#x0437;&#x0430;&#x0438;&#x043C;&#x043E;&#x0441;&#x0432;&#x044F;&#x0437;&#x0438; &#x0432; &#x043F;&#x0440;&#x0435;&#x0434;&#x0435;&#x043B;&#x0430;&#x0445; &#x043E;&#x0434;&#x043D;&#x043E;&#x0439; &#x0441;&#x0442;&#x0440;&#x0430;&#x043D;&#x044B; &#x043C;&#x0435;&#x0436;&#x0434;&#x0443; &#x043F;&#x043E;&#x0442;&#x0440;&#x0435;&#x0431;&#x043B;&#x0435;&#x043D;&#x0438;&#x0435;&#x043C; &#x0431;&#x043B;&#x044E;&#x0434; &#x0431;&#x044B;&#x0441;&#x0442;&#x0440;&#x043E;&#x0433;&#x043E; &#x043F;&#x0438;&#x0442;&#x0430;&#x043D;&#x0438;&#x044F; &#x0438; &#x0418;&#x041C;&#x0422; &#x0437;&#x0430; &#x043F;&#x0435;&#x0440;&#x0438;&#x043E;&#x0434; &#x0441; 1999 &#x043F;&#x043E; 2008&#x00A0;&#x0433;&#x0433;. &#x0418;&#x0441;&#x0441;&#x043B;&#x0435;&#x0434;&#x043E;&#x0432;&#x0430;&#x043D;&#x0438;&#x0435; &#x043F;&#x0440;&#x043E;&#x0432;&#x043E;&#x0434;&#x0438;&#x043B;&#x043E;&#x0441;&#x044C; &#x0441; &#x043F;&#x043E;&#x043C;&#x043E;&#x0449;&#x044C;&#x044E; &#x043C;&#x043D;&#x043E;&#x0433;&#x043E;&#x043F;&#x0430;&#x0440;&#x0430;&#x043C;&#x0435;&#x0442;&#x0440;&#x0438;&#x0447;&#x0435;&#x0441;&#x043A;&#x0438;&#x0445; &#x043C;&#x043E;&#x0434;&#x0435;&#x043B;&#x0435;&#x0439; &#x043F;&#x0430;&#x043D;&#x0435;&#x043B;&#x044C;&#x043D;&#x043E;&#x0439; &#x0440;&#x0435;&#x0433;&#x0440;&#x0435;&#x0441;&#x0441;&#x0438;&#x0438;, &#x043F;&#x043E;&#x0441;&#x043B;&#x0435; &#x0432;&#x043D;&#x0435;&#x0441;&#x0435;&#x043D;&#x0438;&#x044F; &#x043A;&#x043E;&#x0440;&#x0440;&#x0435;&#x043A;&#x0442;&#x0438;&#x0440;&#x043E;&#x0432;&#x043E;&#x043A; &#x0434;&#x043B;&#x044F; &#x0442;&#x0430;&#x043A;&#x0438;&#x0445; &#x043F;&#x0430;&#x0440;&#x0430;&#x043C;&#x0435;&#x0442;&#x0440;&#x043E;&#x0432; &#x043A;&#x0430;&#x043A; &#x0432;&#x0430;&#x043B;&#x043E;&#x0432;&#x043E;&#x0439; &#x0432;&#x043D;&#x0443;&#x0442;&#x0440;&#x0435;&#x043D;&#x043D;&#x0438;&#x0439; &#x043F;&#x0440;&#x043E;&#x0434;&#x0443;&#x043A;&#x0442; &#x043D;&#x0430; &#x0434;&#x0443;&#x0448;&#x0443; &#x043D;&#x0430;&#x0441;&#x0435;&#x043B;&#x0435;&#x043D;&#x0438;&#x044F;, &#x0443;&#x0440;&#x043E;&#x0432;&#x0435;&#x043D;&#x044C; &#x0443;&#x0440;&#x0431;&#x0430;&#x043D;&#x0438;&#x0437;&#x0430;&#x0446;&#x0438;&#x0438;, &#x0441;&#x0432;&#x043E;&#x0431;&#x043E;&#x0434;&#x0430; &#x0442;&#x043E;&#x0440;&#x0433;&#x043E;&#x0432;&#x043B;&#x0438;, &#x043F;&#x043E;&#x043A;&#x0430;&#x0437;&#x0430;&#x0442;&#x0435;&#x043B;&#x0438; &#x043E;&#x0431;&#x0440;&#x0430;&#x0437;&#x0430; &#x0436;&#x0438;&#x0437;&#x043D;&#x0438; &#x0438; &#x0434;&#x0440;&#x0443;&#x0433;&#x0438;&#x0435; &#x043A;&#x043E;&#x0432;&#x0430;&#x0440;&#x0438;&#x0430;&#x0442;&#x044B;. &#x0422;&#x0430;&#x043A;&#x0436;&#x0435; &#x0431;&#x044B;&#x043B;&#x043E; &#x043F;&#x0440;&#x043E;&#x0430;&#x043D;&#x0430;&#x043B;&#x0438;&#x0437;&#x0438;&#x0440;&#x043E;&#x0432;&#x0430;&#x043D;&#x043E; &#x0432;&#x043E;&#x0437;&#x043C;&#x043E;&#x0436;&#x043D;&#x043E;&#x0435; &#x043E;&#x043F;&#x043E;&#x0441;&#x0440;&#x0435;&#x0434;&#x0443;&#x044E;&#x0449;&#x0435;&#x0435; &#x0432;&#x043B;&#x0438;&#x044F;&#x043D;&#x0438;&#x0435; &#x0435;&#x0436;&#x0435;&#x0433;&#x043E;&#x0434;&#x043D;&#x043E;&#x0433;&#x043E; &#x043F;&#x043E;&#x0442;&#x0440;&#x0435;&#x0431;&#x043B;&#x0435;&#x043D;&#x0438;&#x044F; &#x043D;&#x0430; &#x0434;&#x0443;&#x0448;&#x0443; &#x043D;&#x0430;&#x0441;&#x0435;&#x043B;&#x0435;&#x043D;&#x0438;&#x044F; &#x0431;&#x0435;&#x0437;&#x0430;&#x043B;&#x043A;&#x043E;&#x0433;&#x043E;&#x043B;&#x044C;&#x043D;&#x044B;&#x0445; &#x043D;&#x0430;&#x043F;&#x0438;&#x0442;&#x043A;&#x043E;&#x0432;, &#x0436;&#x0438;&#x0432;&#x043E;&#x0442;&#x043D;&#x044B;&#x0445; &#x0436;&#x0438;&#x0440;&#x043E;&#x0432; &#x0438; &#x0441;&#x0443;&#x043C;&#x043C;&#x0430;&#x0440;&#x043D;&#x043E;&#x0433;&#x043E; &#x043A;&#x043E;&#x043B;&#x0438;&#x0447;&#x0435;&#x0441;&#x0442;&#x0432;&#x0430; &#x043A;&#x0430;&#x043B;&#x043E;&#x0440;&#x0438;&#x0439; &#x043D;&#x0430; &#x0441;&#x0432;&#x044F;&#x0437;&#x044C; &#x043C;&#x0435;&#x0436;&#x0434;&#x0443; &#x043F;&#x043E;&#x0442;&#x0440;&#x0435;&#x0431;&#x043B;&#x0435;&#x043D;&#x0438;&#x0435;&#x043C; &#x0431;&#x043B;&#x044E;&#x0434; &#x0431;&#x044B;&#x0441;&#x0442;&#x0440;&#x043E;&#x0433;&#x043E; &#x043F;&#x0438;&#x0442;&#x0430;&#x043D;&#x0438;&#x044F; &#x0438; &#x0418;&#x041C;&#x0422;. &#x0414;&#x043B;&#x044F; &#x0438;&#x0437;&#x0443;&#x0447;&#x0435;&#x043D;&#x0438;&#x044F; &#x043F;&#x0440;&#x0438;&#x0447;&#x0438;&#x043D;&#x043D;&#x043E;-&#x0441;&#x043B;&#x0435;&#x0434;&#x0441;&#x0442;&#x0432;&#x0435;&#x043D;&#x043D;&#x043E;&#x0433;&#x043E; &#x0432;&#x043B;&#x0438;&#x044F;&#x043D;&#x0438;&#x044F; &#x043F;&#x043E;&#x0442;&#x0440;&#x0435;&#x0431;&#x043B;&#x0435;&#x043D;&#x0438;&#x044F; &#x0431;&#x043B;&#x044E;&#x0434; &#x0431;&#x044B;&#x0441;&#x0442;&#x0440;&#x043E;&#x0433;&#x043E; &#x043F;&#x0438;&#x0442;&#x0430;&#x043D;&#x0438;&#x044F; &#x043D;&#x0430; &#x0418;&#x041C;&#x0422; &#x0431;&#x044B;&#x043B;&#x0438; &#x043F;&#x0440;&#x043E;&#x0438;&#x0437;&#x0432;&#x0435;&#x0434;&#x0435;&#x043D;&#x044B; &#x0440;&#x0430;&#x0441;&#x0447;&#x0435;&#x0442;&#x044B; &#x0434;&#x043B;&#x044F; &#x0434;&#x0432;&#x0443;&#x0445;&#x044D;&#x0442;&#x0430;&#x043F;&#x043D;&#x043E;&#x0439; &#x043C;&#x043E;&#x0434;&#x0435;&#x043B;&#x0438; &#x043D;&#x0430;&#x0438;&#x043C;&#x0435;&#x043D;&#x044C;&#x0448;&#x0435;&#x0439; &#x043A;&#x0432;&#x0430;&#x0434;&#x0440;&#x0430;&#x0442;&#x0438;&#x0447;&#x0435;&#x0441;&#x043A;&#x043E;&#x0439; &#x0440;&#x0435;&#x0433;&#x0440;&#x0435;&#x0441;&#x0441;&#x0438;&#x0438; &#x0441; &#x0438;&#x0441;&#x043F;&#x043E;&#x043B;&#x044C;&#x0437;&#x043E;&#x0432;&#x0430;&#x043D;&#x0438;&#x0435;&#x043C; &#x044D;&#x043A;&#x043E;&#x043D;&#x043E;&#x043C;&#x0438;&#x0447;&#x0435;&#x0441;&#x043A;&#x043E;&#x0439; &#x0441;&#x0432;&#x043E;&#x0431;&#x043E;&#x0434;&#x044B; &#x0432; &#x043A;&#x0430;&#x0447;&#x0435;&#x0441;&#x0442;&#x0432;&#x0435; &#x0438;&#x043D;&#x0441;&#x0442;&#x0440;&#x0443;&#x043C;&#x0435;&#x043D;&#x0442;&#x0430;&#x043B;&#x044C;&#x043D;&#x043E;&#x0439; &#x043F;&#x0435;&#x0440;&#x0435;&#x043C;&#x0435;&#x043D;&#x043D;&#x043E;&#x0439;.</p></sec>
+<sec><title>&#x0420;&#x0435;&#x0437;&#x0443;&#x043B;&#x044C;&#x0442;&#x0430;&#x0442;&#x044B;</title><p>&#x041F;&#x043E;&#x0441;&#x043B;&#x0435; &#x0432;&#x043D;&#x0435;&#x0441;&#x0435;&#x043D;&#x0438;&#x044F; &#x043A;&#x043E;&#x0440;&#x0440;&#x0435;&#x043A;&#x0442;&#x0438;&#x0440;&#x043E;&#x0432;&#x043E;&#x043A; &#x0434;&#x043B;&#x044F; &#x043A;&#x043E;&#x0432;&#x0430;&#x0440;&#x0438;&#x0430;&#x0442;, &#x043A;&#x0430;&#x0436;&#x0434;&#x043E;&#x0435; &#x0443;&#x0432;&#x0435;&#x043B;&#x0438;&#x0447;&#x0435;&#x043D;&#x0438;&#x0435; &#x043D;&#x0430; 1&#x00A0;&#x0435;&#x0434;&#x0438;&#x043D;&#x0438;&#x0446;&#x0443; &#x0435;&#x0436;&#x0435;&#x0433;&#x043E;&#x0434;&#x043D;&#x044B;&#x0445; &#x0442;&#x0440;&#x0430;&#x043D;&#x0437;&#x0430;&#x043A;&#x0446;&#x0438;&#x0439; &#x043D;&#x0430; &#x0434;&#x0443;&#x0448;&#x0443; &#x043D;&#x0430;&#x0441;&#x0435;&#x043B;&#x0435;&#x043D;&#x0438;&#x044F; &#x0432; &#x043E;&#x0431;&#x043B;&#x0430;&#x0441;&#x0442;&#x0438; &#x0431;&#x044B;&#x0441;&#x0442;&#x0440;&#x043E;&#x0433;&#x043E; &#x043F;&#x0438;&#x0442;&#x0430;&#x043D;&#x0438;&#x044F; &#x0431;&#x044B;&#x043B;&#x043E; &#x0441;&#x0432;&#x044F;&#x0437;&#x0430;&#x043D;&#x043E; &#x0441; &#x0443;&#x0432;&#x0435;&#x043B;&#x0438;&#x0447;&#x0435;&#x043D;&#x0438;&#x0435;&#x043C; &#x043D;&#x0430; 0,033&#x00A0;&#x043A;&#x0433;/&#x043C;<sup>2</sup> &#x0434;&#x043B;&#x044F; &#x0441;&#x0442;&#x0430;&#x043D;&#x0434;&#x0430;&#x0440;&#x0442;&#x043D;&#x044B;&#x0445; &#x043F;&#x043E; &#x0432;&#x043E;&#x0437;&#x0440;&#x0430;&#x0441;&#x0442;&#x0443; &#x0418;&#x041C;&#x0422; (95% &#x0434;&#x043E;&#x0432;&#x0435;&#x0440;&#x0438;&#x0442;&#x0435;&#x043B;&#x044C;&#x043D;&#x044B;&#x0439; &#x0438;&#x043D;&#x0442;&#x0435;&#x0440;&#x0432;&#x0430;&#x043B;, &#x0414;&#x0418;: 0,013&#x2013;0,052). &#x0422;&#x043E;&#x043B;&#x044C;&#x043A;&#x043E; &#x043F;&#x043E;&#x0442;&#x0440;&#x0435;&#x0431;&#x043B;&#x0435;&#x043D;&#x0438;&#x0435; &#x0431;&#x0435;&#x0437;&#x0430;&#x043B;&#x043A;&#x043E;&#x0433;&#x043E;&#x043B;&#x044C;&#x043D;&#x044B;&#x0445; &#x043D;&#x0430;&#x043F;&#x0438;&#x0442;&#x043A;&#x043E;&#x0432; &#x2013; &#x0430; &#x043D;&#x0435; &#x0436;&#x0438;&#x0432;&#x043E;&#x0442;&#x043D;&#x044B;&#x0445; &#x0436;&#x0438;&#x0440;&#x043E;&#x0432; &#x0438;&#x043B;&#x0438; &#x0441;&#x0443;&#x043C;&#x043C;&#x0430;&#x0440;&#x043D;&#x043E;&#x0433;&#x043E; &#x043A;&#x043E;&#x043B;&#x0438;&#x0447;&#x0435;&#x0441;&#x0442;&#x0432;&#x0430; &#x043A;&#x0430;&#x043B;&#x043E;&#x0440;&#x0438;&#x0439; &#x2013; &#x043E;&#x043F;&#x043E;&#x0441;&#x0440;&#x0435;&#x0434;&#x043E;&#x0432;&#x0430;&#x043D;&#x043D;&#x043E; &#x0432;&#x043B;&#x0438;&#x044F;&#x043B;&#x043E; &#x043D;&#x0430; &#x043D;&#x0430;&#x0431;&#x043B;&#x044E;&#x0434;&#x0430;&#x0435;&#x043C;&#x0443;&#x044E; &#x0441;&#x0432;&#x044F;&#x0437;&#x044C; (<italic>&#x03B2;</italic>:&#x2009;0.030; 95% &#x0414;&#x0418;: 0,010&#x2013;0,050). &#x042D;&#x043A;&#x043E;&#x043D;&#x043E;&#x043C;&#x0438;&#x0447;&#x0435;&#x0441;&#x043A;&#x0430;&#x044F; &#x0441;&#x0432;&#x043E;&#x0431;&#x043E;&#x0434;&#x0430; &#x0431;&#x044B;&#x043B;&#x0430; &#x043D;&#x0435;&#x0437;&#x0430;&#x0432;&#x0438;&#x0441;&#x0438;&#x043C;&#x043E;&#x0439; &#x043F;&#x0435;&#x0440;&#x0435;&#x043C;&#x0435;&#x043D;&#x043D;&#x043E;&#x0439; &#x0434;&#x043B;&#x044F; &#x043F;&#x0440;&#x043E;&#x0433;&#x043D;&#x043E;&#x0437;&#x0438;&#x0440;&#x043E;&#x0432;&#x0430;&#x043D;&#x0438;&#x044F; &#x043F;&#x043E;&#x0442;&#x0440;&#x0435;&#x0431;&#x043B;&#x0435;&#x043D;&#x0438;&#x044F; &#x0431;&#x043B;&#x044E;&#x0434; &#x0431;&#x044B;&#x0441;&#x0442;&#x0440;&#x043E;&#x0433;&#x043E; &#x043F;&#x0438;&#x0442;&#x0430;&#x043D;&#x0438;&#x044F; (<italic>&#x03B2;</italic>:&#x2009;0.27; 95% &#x0414;&#x0418;: 0,16&#x2013;0,37). &#x041A;&#x043E;&#x0433;&#x0434;&#x0430; &#x044D;&#x043A;&#x043E;&#x043D;&#x043E;&#x043C;&#x0438;&#x0447;&#x0435;&#x0441;&#x043A;&#x0430;&#x044F; &#x0441;&#x0432;&#x043E;&#x0431;&#x043E;&#x0434;&#x0430; &#x0438;&#x0441;&#x043F;&#x043E;&#x043B;&#x044C;&#x0437;&#x043E;&#x0432;&#x0430;&#x043B;&#x0430;&#x0441;&#x044C; &#x0432; &#x043A;&#x0430;&#x0447;&#x0435;&#x0441;&#x0442;&#x0432;&#x0435; &#x0438;&#x043D;&#x0441;&#x0442;&#x0440;&#x0443;&#x043C;&#x0435;&#x043D;&#x0442;&#x0430;&#x043B;&#x044C;&#x043D;&#x043E;&#x0439; &#x043F;&#x0435;&#x0440;&#x0435;&#x043C;&#x0435;&#x043D;&#x043D;&#x043E;&#x0439;, &#x0441;&#x0432;&#x044F;&#x0437;&#x044C; &#x043C;&#x0435;&#x0436;&#x0434;&#x0443; &#x0431;&#x044B;&#x0441;&#x0442;&#x0440;&#x044B;&#x043C; &#x043F;&#x0438;&#x0442;&#x0430;&#x043D;&#x0438;&#x0435;&#x043C; &#x0438; &#x0418;&#x041C;&#x0422; &#x043E;&#x0441;&#x043B;&#x0430;&#x0431;&#x0435;&#x0432;&#x0430;&#x043B;&#x0430;, &#x043D;&#x043E; &#x0432;&#x0441;&#x0435; &#x0440;&#x0430;&#x0432;&#x043D;&#x043E; &#x043E;&#x0441;&#x0442;&#x0430;&#x0432;&#x0430;&#x043B;&#x0430;&#x0441;&#x044C; &#x0437;&#x043D;&#x0430;&#x0447;&#x0438;&#x0442;&#x0435;&#x043B;&#x044C;&#x043D;&#x043E;&#x0439; (<italic>&#x03B2;</italic>:&#x2009;0,023; 95% &#x0414;&#x0418;: 0,001&#x2013;0,045).</p></sec>
+<sec><title>&#x0412;&#x044B;&#x0432;&#x043E;&#x0434;</title><p>&#x041F;&#x043E;&#x0442;&#x0440;&#x0435;&#x0431;&#x043B;&#x0435;&#x043D;&#x0438;&#x0435; &#x0431;&#x043B;&#x044E;&#x0434; &#x0431;&#x044B;&#x0441;&#x0442;&#x0440;&#x043E;&#x0433;&#x043E; &#x043F;&#x0438;&#x0442;&#x0430;&#x043D;&#x0438;&#x044F; &#x044F;&#x0432;&#x043B;&#x044F;&#x0435;&#x0442;&#x0441;&#x044F; &#x043D;&#x0435;&#x0437;&#x0430;&#x0432;&#x0438;&#x0441;&#x0438;&#x043C;&#x043E;&#x0439; &#x043F;&#x0435;&#x0440;&#x0435;&#x043C;&#x0435;&#x043D;&#x043D;&#x043E;&#x0439;, &#x043F;&#x0440;&#x043E;&#x0433;&#x043D;&#x043E;&#x0437;&#x0438;&#x0440;&#x0443;&#x044E;&#x0449;&#x0435;&#x0439; &#x0441;&#x0440;&#x0435;&#x0434;&#x043D;&#x0435;&#x0435; &#x0437;&#x043D;&#x0430;&#x0447;&#x0435;&#x043D;&#x0438;&#x0435; &#x0418;&#x041C;&#x0422; &#x0432; &#x0441;&#x0442;&#x0440;&#x0430;&#x043D;&#x0430;&#x0445; &#x0441; &#x0432;&#x044B;&#x0441;&#x043E;&#x043A;&#x0438;&#x043C; &#x0443;&#x0440;&#x043E;&#x0432;&#x043D;&#x0435;&#x043C; &#x0434;&#x043E;&#x0445;&#x043E;&#x0434;&#x0430;. &#x041F;&#x043E;&#x043B;&#x0438;&#x0442;&#x0438;&#x043A;&#x0438; &#x043E;&#x0442;&#x043C;&#x0435;&#x043D;&#x044B; &#x0433;&#x043E;&#x0441;&#x0443;&#x0434;&#x0430;&#x0440;&#x0441;&#x0442;&#x0432;&#x0435;&#x043D;&#x043D;&#x043E;&#x0433;&#x043E; &#x0440;&#x0435;&#x0433;&#x0443;&#x043B;&#x0438;&#x0440;&#x043E;&#x0432;&#x0430;&#x043D;&#x0438;&#x044F; &#x0440;&#x044B;&#x043D;&#x043A;&#x0430; &#x043C;&#x043E;&#x0433;&#x0443;&#x0442; &#x0443;&#x0441;&#x0443;&#x0433;&#x0443;&#x0431;&#x0438;&#x0442;&#x044C; &#x043F;&#x0440;&#x043E;&#x0431;&#x043B;&#x0435;&#x043C;&#x0443; &#x043E;&#x0436;&#x0438;&#x0440;&#x0435;&#x043D;&#x0438;&#x044F;, &#x043F;&#x043E;&#x0441;&#x043A;&#x043E;&#x043B;&#x044C;&#x043A;&#x0443; &#x0441;&#x043F;&#x043E;&#x0441;&#x043E;&#x0431;&#x0441;&#x0442;&#x0432;&#x0443;&#x044E;&#x0442; &#x0440;&#x0430;&#x0441;&#x043F;&#x0440;&#x043E;&#x0441;&#x0442;&#x0440;&#x0430;&#x043D;&#x0435;&#x043D;&#x0438;&#x044E; &#x0440;&#x0435;&#x0441;&#x0442;&#x043E;&#x0440;&#x0430;&#x043D;&#x043E;&#x0432; &#x0431;&#x044B;&#x0441;&#x0442;&#x0440;&#x043E;&#x0433;&#x043E; &#x043F;&#x0438;&#x0442;&#x0430;&#x043D;&#x0438;&#x044F;.</p></sec>
+</trans-abstract>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>In the last decades, there have been substantial increases in mean body weight in wealthy countries.<xref ref-type="bibr" rid="R1"><sup>1</sup></xref><sup>,</sup><xref ref-type="bibr" rid="R2"><sup>2</sup></xref> Such changes accompanied dramatic transformations in people&#x2019;s dietary patterns, most notably an increase in the consumption of ultra-processed foods, including fast food,<xref ref-type="bibr" rid="R3"><sup>3</sup></xref> herein defined as &#x201C;food that can be prepared quickly and easily and is sold in restaurants and snack bars as a quick meal or to be taken out&#x201D;.<xref ref-type="bibr" rid="R4"><sup>4</sup></xref></p>
+<p>Although some authors argue that fast food consumption has played a negligible role in the obesity epidemic,<xref ref-type="bibr" rid="R5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="R6"><sup>6</sup></xref> numerous studies have shown the opposite to be true.<xref ref-type="bibr" rid="R7"><sup>7</sup></xref><sup>,</sup><xref ref-type="bibr" rid="R8"><sup>8</sup></xref> A cohort study by Pereira et al. showed that participants who visited fast food restaurants more than twice a week at baseline and were still doing so at a follow-up 15 years later had gained an average of 4.5&#x00A0;kg.<xref ref-type="bibr" rid="R9"><sup>9</sup></xref> Significant associations between the density of fast food restaurants and obesity have also been shown by neighbourhood-<xref ref-type="bibr" rid="R10"><sup>10</sup></xref><sup>&#x2013;</sup><xref ref-type="bibr" rid="R12"><sup>12</sup></xref> and state-level analyses.<xref ref-type="bibr" rid="R13"><sup>13</sup></xref><sup>&#x2013;</sup><xref ref-type="bibr" rid="R15"><sup>15</sup></xref> So far, little cross-national research has been conducted to investigate whether the spread of fast food has led to an increase in population-wide obesity rates over time.<xref ref-type="bibr" rid="R16"><sup>16</sup></xref><sup>,</sup><xref ref-type="bibr" rid="R17"><sup>17</sup></xref> However, in a recent ecological analysis, the density of Subway outlets, used as a marker of fast food penetration, was positively associated with the prevalence of obesity across 26 advanced economies.<xref ref-type="bibr" rid="R18"><sup>18</sup></xref> Another cross-national ecological analysis revealed an association between increases in soft drink consumption and higher rates of overweight and obesity.<xref ref-type="bibr" rid="R19"><sup>19</sup></xref> The research conducted to date has revealed little about the factors that drive or contain the spread of fast food and obesity.<xref ref-type="bibr" rid="R16"><sup>16</sup></xref> Some authors argue that the rising consumption of unhealthy foods seen worldwide has been facilitated by trade liberalization<xref ref-type="bibr" rid="R20"><sup>20</sup></xref> and foreign investment in the food and beverage industries,<xref ref-type="bibr" rid="R8"><sup>8</sup></xref><sup>,</sup><xref ref-type="bibr" rid="R21"><sup>21</sup></xref><sup>&#x2013;</sup><xref ref-type="bibr" rid="R23"><sup>23</sup></xref> which have resulted in the proliferation of large transnational food companies.<xref ref-type="bibr" rid="R20"><sup>20</sup></xref><sup>,</sup><xref ref-type="bibr" rid="R24"><sup>24</sup></xref><sup>,</sup><xref ref-type="bibr" rid="R25"><sup>25</sup></xref> Offer et al. have found that high-income countries with market-liberal welfare regimes &#x2013; most of which are also English-speaking &#x2013; have a higher prevalence of obesity and easier access to fast food.<xref ref-type="bibr" rid="R17"><sup>17</sup></xref> A study by Cutler et al. has shown that regulations in the agricultural sector are negatively correlated with obesity.<xref ref-type="bibr" rid="R26"><sup>26</sup></xref></p>
+<p>In this article we use a novel measure &#x2013; the number of per capita fast food transactions (local and transnational) &#x2013; to test the hypothesis that rising fast food consumption has been a major determinant of population increases in body mass index (BMI) among high-income countries belonging to the Organisation for Economic Co-operation and Development (OECD). We also examine whether market deregulation may have contributed to higher BMI by facilitating the spread of fast food.</p>
+</sec>
+<sec sec-type="methods">
+<title>Methods</title>
+<p>We conducted multivariate panel data analyses of 25 high-income OECD countries over the period from 1999 to 2008. Data on fast food consumption and age-standardized mean BMI were available for only 27 of the 31 high-income OECD members. Such data were missing for Estonia, Iceland, Luxembourg and Slovenia. To limit biases in international comparisons between Asians and Caucasians due to different interpretations of BMI in Asian populations,<xref ref-type="bibr" rid="R27"><sup>27</sup></xref> we excluded Japan and the Republic of Korea. However, we ran additional analyses including these countries as robustness checks. We also developed separate models excluding Anglo-Saxon economies (Australia, Canada, Ireland, New Zealand, the United Kingdom of Great Britain and Northern Ireland and the United States of America) that, as previous studies showed, have a higher prevalence of obesity and easier access to fast food.<xref ref-type="bibr" rid="R17"><sup>17</sup></xref></p>
+<sec>
+<title>Data sources</title>
+<sec>
+<title>Fast food consumption</title>
+<p>Data on per capita fast food transactions were taken from Euromonitor&#x2019;s Passport Global Market Information Database (GMID), 2012 edition. The data comprise industry records of annual sales of meals and refreshments delivered in local and transnational fast food outlets,<xref ref-type="bibr" rid="R28"><sup>28</sup></xref> including chain restaurants, independent eateries and convenience stores (Appendix&#x00A0;A, available at: <ext-link ext-link-type="uri" xlink:href="http://goo.gl/36c7ai">http://goo.gl/36c7ai</ext-link>). This measure is the most comprehensive indicator of fast food consumption for comparisons across nations. Appendix&#x00A0;B (available at: <ext-link ext-link-type="uri" xlink:href="http://goo.gl/gThiG5">http://goo.gl/gThiG5</ext-link>) shows the scatterplot and strong correlation coefficient (<italic>r</italic>&#x2009;=&#x2009;0.8501; <italic>P</italic>&#x2009;&lt;&#x2009;0.001) for the association between fast food transactions per capita, as obtained from the GMID, and Subway restaurants per 100&#x2009;000 population, an indicator used in a previous paper as a proxy measure of the density of fast food restaurants at the country level.<xref ref-type="bibr" rid="R18"><sup>18</sup></xref></p>
+</sec>
+<sec>
+<title>Age-standardized mean body mass index</title>
+<p>Our main dependent variable, age-standardized mean BMI (in kg/m<sup>2</sup>), was obtained from the Global Burden of Metabolic Risk Factors of Chronic Diseases Collaborating Group, which produced comparative estimates of cross-country differences and changes over time in BMI for adults aged 20 years or older.<xref ref-type="bibr" rid="R1"><sup>1</sup></xref> Although data on BMI are reported separately for men and women, we developed an overall indicator by estimating the female to male ratio using the proportion of female population from the World Development Indicators from 1999 to 2008.<xref ref-type="bibr" rid="R29"><sup>29</sup></xref> We also ran sex-specific analyses as robustness assessments.</p>
+</sec>
+<sec>
+<title>Market deregulation</title>
+<p>Market deregulation is the degree to which market forces are allowed to operate without interference from outside intervention, especially in the form of government ownership, regulations and taxes.<xref ref-type="bibr" rid="R30"><sup>30</sup></xref> We used the index of economic freedom (IEF) created by the Heritage Foundation and the <italic>Wall Street Journal</italic>, which is based on a scale from 1 to 100. The score indicates the extent to which a country has adopted market deregulation policies. The index is calculated as the mean of 10 subcomponents measuring different aspects of economic freedom, as determined from national laws and regulations as well as written questionnaires completed by experts and investors (Appendix C, available at: <ext-link ext-link-type="uri" xlink:href="http://goo.gl/M76H7I">http://goo.gl/M76H7I</ext-link>).<xref ref-type="bibr" rid="R31"><sup>31</sup></xref></p>
+</sec>
+<sec>
+<title>Covariates</title>
+<p>We included in our analyses several potential confounders of the association between fast food and BMI: gross domestic product (GDP) per capita (expressed logarithmically in constant 2005 United States dollars, adjusted for purchasing power parity for comparability between countries); the proportion of the population living in urban areas; national population size; openness to trade (imports and exports as a percentage of GDP); foreign direct investment (FDI, or net inflows as a percentage of GDP); and a time-invariant (2008) measure of motor vehicles per 1000 people. All these measures were taken from the World Bank&#x2019;s World Development Indicators database.<xref ref-type="bibr" rid="R29"><sup>29</sup></xref> We also included as confounders time-invariant measures (2008) of the percentage of the population doing insufficient physical activity (i.e. less than 30 minutes of moderate activity five times per week or less than 20 minutes of vigorous activity three times per week, or their equivalent) and consumption of fruits and vegetables (in kilograms per capita per year) in 2008. These two values were obtained from the World Health Organization Global Infobase<xref ref-type="bibr" rid="R32"><sup>32</sup></xref> and from the GMID, respectively.<xref ref-type="bibr" rid="R28"><sup>28</sup></xref> Finally, as previous studies have revealed that obesity and the availability of cheap, energy-dense food tend to be higher in societies with greater economic inequality,<xref ref-type="bibr" rid="R33"><sup>33</sup></xref><sup>,</sup><xref ref-type="bibr" rid="R34"><sup>34</sup></xref> we adjusted for the Gini index, a measure of inequality in household disposable income. Data on the Gini index were taken from the Standardized World Income Inequality Database.<xref ref-type="bibr" rid="R35"><sup>35</sup></xref><sup>,</sup><xref ref-type="bibr" rid="R36"><sup>36</sup></xref> </p>
+<p>Our analyses also include three potential mediators of the association between fast food and BMI: consumption of animal fats (in kcal per capita per day); total caloric intake (in kcal per capita per day); and soft drink consumption (in litres per capita per year). The first two values were obtained from the Statistics Division of the Food and Agriculture Organization;<xref ref-type="bibr" rid="R37"><sup>37</sup></xref> the last one came from the GMID.<xref ref-type="bibr" rid="R28"><sup>28</sup></xref></p>
+</sec>
+</sec>
+<sec>
+<title>Statistical analyses</title>
+<p>To study the association between fast food consumption and BMI we used longitudinal panel analyses, which allow the dynamics of change over time to be explored.<xref ref-type="bibr" rid="R38"><sup>38</sup></xref> Our regression models included corrections for fixed aspects of initial country conditions and other characteristics that could influence the level of fast food consumption &#x2013; and hence average BMI &#x2013; in a given country.<xref ref-type="bibr" rid="R39"><sup>39</sup></xref><sup>,</sup><xref ref-type="bibr" rid="R40"><sup>40</sup></xref> By assessing within-country annual variations in fast food and obesity over time and adjusting for fixed, country-level characteristics, these conservative models effectively address the problem of confounding of study results. Robust standard errors &#x2013;&#x2013; clustered by region to adjust for the non-independence of time series data &#x2013; were calculated in all models.<xref ref-type="bibr" rid="R8"><sup>8</sup></xref> Regressions were analysed using Stata version 12.0 (StataCorp. LP, College Station, United States of America).</p>
+<p>We formulated the following fixed effects models:<disp-formula id="E1"><graphic position="anchor" xlink:href="BLT.13.120287-M1" xmlns:xlink="http://www.w3.org/1999/xlink"/><label> (1)</label></disp-formula>
+<disp-formula id="E2"><graphic position="anchor" xlink:href="BLT.13.120287-M2" xmlns:xlink="http://www.w3.org/1999/xlink"/><label> (2)</label></disp-formula>where <italic>i</italic> is the country, <italic>t</italic> is the year, <italic>&#x03B2;</italic><sub>1</sub> is the regression coefficient for per capita fast food transactions, <italic>&#x03B2;</italic><sub>2</sub> is the regression coefficient for GDP, <italic>&#x03C5;<sub>i</sub></italic> is an error term denoting country-specific heterogeneity, <italic>&#x03B5;<sub>it</sub></italic> indicates an identically distributed random error term or measurement error and <italic>&#x03B1;</italic> is a constant.</p>
+</sec>
+</sec>
+<sec sec-type="results">
+<title>Results</title>
+<sec>
+<title>Fast food consumption and BMI</title>
+<p>As shown in <xref ref-type="table" rid="T1">Table&#x00A0;1</xref> (available at: <ext-link ext-link-type="uri" xlink:href="http://www.who.int/bulletin/volumes/92/2/13-120287">http://www.who.int/bulletin/volumes/92/2/13-120287</ext-link>), between 1999 and 2008, the average number of annual fast food transactions per capita increased from 26.61 to 32.76. During the same period, age-standardized mean BMI increased from 25.8&#x00A0;to 26.4&#x00A0;kg/m<sup>2</sup>. There was a strong and positive association between fast food consumption and age-standardized mean BMI (unadjusted <italic>r</italic>&#x2009;=&#x2009;0.658; <italic>P</italic>&#x2009;&lt;&#x2009;0.001). When considering changes between 1999 and 2008 (<xref ref-type="fig" rid="F1">Fig.&#x00A0;1</xref>), the average annual number of fast food transactions per capita was positively associated with age-standardized mean BMI (unadjusted <italic>r</italic>&#x2009;=&#x2009;0.503; <italic>P</italic>&#x2009;&lt;&#x2009;0.01). The highest increases in the average number of annual fast food transactions per capita were observed in Canada (16.6), Australia (14.7), Ireland (12.3) and New Zealand (10.1), while the lowest increases occurred in Italy (1.5), Greece (1.9), the Netherlands (1.8) and Belgium (2.1).</p>
+<table-wrap id="T1" position="float" specific-use="online"><?Table Turn3?>
+<label>Table 1</label><caption><title>Age-standardized mean body mass index (BMI), per capita fast food transactions and other covariates in 25 high-income countries of the Organisation for Economic Co-operation and Development, 1999, 2002, 2005, 2008</title></caption>
+<table frame="hsides" rules="groups">
+<col width="165"/>
+<col width="69"/>
+<col width="60"/>
+<col width="127"/>
+<col width="12"/>
+<col width="69"/>
+<col width="60"/>
+<col width="125"/>
+<col width="14"/>
+<col width="69"/>
+<col width="60"/>
+<col width="127"/>
+<col width="12"/>
+<col width="69"/>
+<col width="61"/>
+<col width="127"/>
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="left" scope="col">Variable</th>
+<th colspan="3" valign="top" align="center" scope="colgroup">1999<hr/></th>
+<th rowspan="2" valign="top" align="left" scope="col"></th>
+<th colspan="3" valign="top" align="center" scope="colgroup">2002<hr/></th>
+<th rowspan="2" valign="top" align="left" scope="col"></th>
+<th colspan="3" valign="top" align="center" scope="colgroup">2005<hr/></th>
+<th rowspan="2" valign="top" align="left" scope="col"></th>
+<th colspan="3" valign="top" align="center" scope="colgroup">2008<hr/></th>
+</tr>
+<tr>
+<th valign="top" colspan="1" align="center" scope="colgroup">Mean</th>
+<th valign="top" align="center" scope="col">SD</th>
+<th valign="top" align="center" scope="col">Range</th>
+<th valign="top" colspan="1" align="center" scope="colgroup">Mean</th>
+<th valign="top" align="center" scope="col">SD</th>
+<th valign="top" align="center" scope="col">Range</th>
+<th valign="top" colspan="1" align="center" scope="colgroup">Mean</th>
+<th valign="top" align="center" scope="col">SD</th>
+<th valign="top" align="center" scope="col">Range</th>
+<th valign="top" colspan="1" align="center" scope="colgroup">Mean</th>
+<th valign="top" align="center" scope="col">SD</th>
+<th valign="top" align="center" scope="col">Range</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" scope="row">Age-standardized mean BMI (kg/m<sup>2</sup>)</td>
+<td valign="top" align="center">25.84</td>
+<td valign="top" align="center">0.66</td>
+<td valign="top" align="center">24.87&#x2013;27.50</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">26.04</td>
+<td valign="top" align="center">0.71</td>
+<td valign="top" align="center">24.94&#x2013;27.82</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">26.23</td>
+<td valign="top" align="center">0.75</td>
+<td valign="top" align="center">25.01&#x2013;28.13</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">26.44</td>
+<td valign="top" align="center">0.79</td>
+<td valign="top" align="center">25.11&#x2013;28.39</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Fast food transactions, no.<sup>a</sup></td>
+<td valign="top" align="center">26.61</td>
+<td valign="top" align="center">27.27</td>
+<td valign="top" align="center">6.9&#x2013;109.5</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">28.56</td>
+<td valign="top" align="center">28.38</td>
+<td valign="top" align="center">9.1&#x2013;114.10</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">30.68</td>
+<td valign="top" align="center">29.49</td>
+<td valign="top" align="center">10.5&#x2013;121.70</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">32.76</td>
+<td valign="top" align="center">30.20</td>
+<td valign="top" align="center">12.13&#x2013;126.10</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">GDP per capita<sup>b</sup></td>
+<td valign="top" align="center">26&#x2009;045.57</td>
+<td valign="top" align="center">7853.44</td>
+<td valign="top" align="center">11&#x2009;212.92&#x2013;42&#x2009;866.46</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">27&#x2009;966.32</td>
+<td valign="top" align="center">7979.83</td>
+<td valign="top" align="center">12&#x2009;137.23&#x2013;45050.22</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">29&#x2009;665.49</td>
+<td valign="top" align="center">8071.49</td>
+<td valign="top" align="center">13&#x2009;784.16&#x2013;47&#x2009;626.28</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">31&#x2009;272.20</td>
+<td valign="top" align="center">7792.31</td>
+<td valign="top" align="center">16&#x2009;454.81&#x2013;48583.24</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Per cent urban population</td>
+<td valign="top" align="center">74.01</td>
+<td valign="top" align="center">11.78</td>
+<td valign="top" align="center">53.74&#x2013;97.04</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">74.47</td>
+<td valign="top" align="center">11.69</td>
+<td valign="top" align="center">55.68&#x2013;97.18</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">74.96</td>
+<td valign="top" align="center">11.58</td>
+<td valign="top" align="center">56.2&#x2013;97.30</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">75.50</td>
+<td valign="top" align="center">11.44</td>
+<td valign="top" align="center">56.56&#x2013;97.36</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Population size (millions)</td>
+<td valign="top" align="center">31.60</td>
+<td valign="top" align="center">56.10</td>
+<td valign="top" align="center">3.7&#x2013;279.00</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">32.30</td>
+<td valign="top" align="center">57.70</td>
+<td valign="top" align="center">3.9&#x2013;287.80</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">32.90</td>
+<td valign="top" align="center">59.2</td>
+<td valign="top" align="center">4.10&#x2013;295.70</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">33.70</td>
+<td valign="top" align="center">60.8</td>
+<td valign="top" align="center">4.26&#x2013;304.30</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Openness to trade<sup>c</sup></td>
+<td valign="top" align="center">78.72</td>
+<td valign="top" align="center">34.49</td>
+<td valign="top" align="center">24.09&#x2013;164.58</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">82.75</td>
+<td valign="top" align="center">37.07</td>
+<td valign="top" align="center">22.97&#x2013;170.77</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">86.72</td>
+<td valign="top" align="center">37.76</td>
+<td valign="top" align="center">26.49&#x2013;157.16</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">94.88</td>
+<td valign="top" align="center">41.58</td>
+<td valign="top" align="center">30.79&#x2013;169.09</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">FDI<sup>d</sup></td>
+<td valign="top" align="center">13.00</td>
+<td valign="top" align="center">7.35</td>
+<td valign="top" align="center">1.00&#x2013;25.00</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">4.02</td>
+<td valign="top" align="center">3.12</td>
+<td valign="top" align="center">&#x2212;0.56&#x2013;12.97</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">2.03</td>
+<td valign="top" align="center">3.34</td>
+<td valign="top" align="center">&#x2212;5.88&#x2013;12.28</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">7.97</td>
+<td valign="top" align="center">10.49</td>
+<td valign="top" align="center">0.64&#x2013;52.05</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">IEF<sup>e</sup></td>
+<td valign="top" align="center">67.63</td>
+<td valign="top" align="center">6.89</td>
+<td valign="top" align="center">54.20&#x2013;81.70</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">70.00</td>
+<td valign="top" align="center">6.75</td>
+<td valign="top" align="center">58.00&#x2013;80.70</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">69.86</td>
+<td valign="top" align="center">7.28</td>
+<td valign="top" align="center">59.00&#x2013;82.30</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">72.12</td>
+<td valign="top" align="center">7.08</td>
+<td valign="top" align="center">60.30&#x2013;82.50</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Intake of soft drinks<sup>f</sup></td>
+<td valign="top" align="center">133.69</td>
+<td valign="top" align="center">40.80</td>
+<td valign="top" align="center">74.40&#x2013;231.00</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">148.64</td>
+<td valign="top" align="center">43.35</td>
+<td valign="top" align="center">79.40&#x2013;241.80</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">159.49</td>
+<td valign="top" align="center">44.84</td>
+<td valign="top" align="center">88.00&#x2013;258.00</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">167.24</td>
+<td valign="top" align="center">42.45</td>
+<td valign="top" align="center">100.30&#x2013;259.50</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Intake of animal fat<sup>g</sup></td>
+<td valign="top" align="center">212.25</td>
+<td valign="top" align="center">105.47</td>
+<td valign="top" align="center">26.00&#x2013;439.00</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">218.20</td>
+<td valign="top" align="center">108.46</td>
+<td valign="top" align="center">28.00&#x2013;426.00</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">208.76</td>
+<td valign="top" align="center">104.61</td>
+<td valign="top" align="center">30.00&#x2013;421.00</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">205.56</td>
+<td valign="top" align="center">101.84</td>
+<td valign="top" align="center">31.00&#x2013;401.00</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Total caloric intake<sup>g</sup></td>
+<td valign="top" align="center">3392.29</td>
+<td valign="top" align="center">238.25</td>
+<td valign="top" align="center">2876.00&#x2013;3791.00</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">3432.04</td>
+<td valign="top" align="center">251.66</td>
+<td valign="top" align="center">2794.00&#x2013;3829.00</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">3426.52</td>
+<td valign="top" align="center">225.21</td>
+<td valign="top" align="center">2843.00&#x2013;3799.00</td>
+<td valign="top" align="left"></td>
+<td valign="top" align="center">3437.04</td>
+<td valign="top" align="center">225.02</td>
+<td valign="top" align="center">2866.00&#x2013;3826.00</td>
+</tr>
+</tbody>
+</table><table-wrap-foot>
+<p>FDI, foreign direct investment; GDP, gross domestic product; GMID, Global Market Information Database; IEF, index of economic freedom; SD, standard deviation.</p>
+<p><sup>a</sup> Meals and refreshments sold annually per capita in local and transnational fast food outlets, including chain restaurants, independent eateries and convenience stores.</p>
+<p><sup>b</sup> In constant 2005 United States dollars, adjusted for purchasing power parity for comparability between countries.</p>
+<p><sup>c</sup> Imports and exports as a percentage of GDP.</p>
+<p><sup>d</sup> Net inflows as a percentage of GDP.</p>
+<p><sup>e</sup> Created by the Heritage Foundation and the <italic>Wall Street Journal</italic>.<xref ref-type="bibr" rid="R31"><sup>31</sup></xref></p>
+<p><sup>f</sup> In litres per capita per year.</p>
+<p><sup>g</sup> In kcal per capita per day.</p>
+<p>Sources: Age-standardized mean BMI: Global Burden of Metabolic Risk Factors of Chronic Diseases Collaborating Group;<xref ref-type="bibr" rid="R1"><sup>1</sup></xref> annual fast food transactions per capita: Euromonitor&#x2019;s Passport Global Market Information Database (GMID);<xref ref-type="bibr" rid="R28"><sup>28</sup></xref> GDP per capita, percentage of the population living in urban areas, national population size, openness to trade and FDI: World Bank&#x2019;s World Development Indicators database;<xref ref-type="bibr" rid="R29"><sup>29</sup></xref> intake of soft drinks: GMID;<xref ref-type="bibr" rid="R28"><sup>28</sup></xref> intake of animal fat and total caloric intake: Statistics Division of the Food and Agriculture Organization.<xref ref-type="bibr" rid="R37"><sup>37</sup></xref></p>
+</table-wrap-foot></table-wrap>
+<fig id="F1" position="float" fig-type="figure"><label>Fig. 1</label><caption><p>Change in age-standardized mean body mass index (BMI) as a function of change in average annual fast food transactions per capita<sup>a</sup> in 25 high-income countries of the Organisation for Economic Co-operation and Development, 1999&#x2013;2008</p></caption>
+<p>United Kingdom, United Kingdom of Great Britain and Northern Ireland; United States, United States of America.</p>
+<p><sup>a</sup> Meals and refreshments sold annually per capita in local and transnational fast food outlets, including chain restaurants, independent eateries and convenience stores.</p>
+<p>Note: The figure illustrates the positive correlation between changes in age-standardized mean BMI and changes in the number of annual fast food transactions per capita between 1999&#x00AD; and 2008.</p>
+<p>Sources: Age-standardized mean BMI: Global Burden of Metabolic Risk Factors of Chronic Diseases Collaborating Group;<xref ref-type="bibr" rid="R1"><sup>1</sup></xref> average annual fast food transactions per capita: Euromonitor&#x2019;s Passport Global Market Information Database.<xref ref-type="bibr" rid="R28"><sup>28</sup></xref></p><graphic xlink:href="BLT.13.120287-F1"></graphic></fig>
+<p><xref ref-type="table" rid="T2">Table&#x00A0;2</xref> presents the results of multivariate panel analyses in which age-standardized mean BMI was the dependent variable. Fast food consumption was positively and significantly associated with BMI (unadjusted <italic>&#x03B2;</italic>:&#x2009;0.0657; 95% confidence interval, CI: 0.0433&#x2013;0.0881). After correcting for income, urbanization, population size, openness to trade and FDI, the estimated relationship weakened but remained strongly significant (<italic>&#x03B2;</italic>:&#x2009;0.0329; 95% CI: 0.0136&#x2013;0.0522), so that each 1-unit increase in the average number of annual fast food transactions per capita was associated with an increase of 0.0329&#x00A0;kg/m<sup>2</sup> in age-standardized BMI.</p>
+<table-wrap id="T2" position="float"><?Table Turn2?>
+<label>Table 2</label><caption><title>Associations between fast food consumption and age-standardized body mass index (BMI) before and after adjustment for selected covariates, 1999&#x2013;2008</title></caption>
+<table frame="hsides" rules="groups">
+<col width="198"/>
+<col width="145"/>
+<col width="158"/>
+<col width="132"/>
+<col width="158"/>
+<col width="141"/>
+<col width="158"/>
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="left" scope="col">Variable</th>
+<th colspan="6" valign="top" align="center" scope="colgroup">Age-standardized mean BMI<hr/></th>
+</tr>
+<tr>
+<th valign="top" colspan="1" align="center" scope="colgroup">Model&#x00A0;1<sup>a</sup></th>
+<th valign="top" align="center" scope="col">Model&#x00A0;2<sup>a</sup></th>
+<th valign="top" align="center" scope="col">Model&#x00A0;3<sup>a</sup></th>
+<th valign="top" align="center" scope="col">Model&#x00A0;4<sup>a</sup></th>
+<th valign="top" align="center" scope="col">Model&#x00A0;5<sup>a</sup></th>
+<th valign="top" align="center" scope="col">Model&#x00A0;6<sup>a</sup></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" scope="row">Fast food transactions,<sup>b</sup> <italic>&#x03B2;</italic> (95% CI)</td>
+<td valign="top" align="center">0.0657 (0.0433&#x2013;0.0881)</td>
+<td valign="top" align="center">0.0329 (0.0136&#x2013;0.0522)</td>
+<td valign="top" align="center">0.0907 (0.069&#x2013;0.112)</td>
+<td valign="top" align="center">0.042 (0.0249&#x2013;0.0597)</td>
+<td valign="top" align="center">0.06 (0.0439&#x2013;0.0845)</td>
+<td valign="top" align="center">0.0316 (0.0134&#x2013;0.0498)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Log GDP per capita,<sup>c</sup> <italic>&#x03B2;</italic> (95% CI) </td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">0.933 (0.4899&#x2013;1.3774)</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">0.643 (0.2112&#x2013;1.0762)</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">0.879 (0.4340&#x2013;1.3257)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Per cent urban population</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">0.0856 (0.0551&#x2013;0.1161)</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">0.07 (0.0483&#x2013;0.0975)</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">0.0828 (0.0571&#x2013;0.1086)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Population size</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">0.0116 (&#x2212;0.0002&#x2013;0.0236)</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">0.0514 (0.0121&#x2013;0.0905)</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">0.0129 (0.0019&#x2013;0.0239)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Openness to trade<sup>d</sup></td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">0.0006 (&#x2212;0.0021&#x2013;0.0035)</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">0.0011 (&#x2212;0.0016&#x2013;0.0039)</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">0.0004 (&#x2212;0.0026&#x2013;0.0035)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">FDI<sup>e</sup> </td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">&#x2212;0.001 (&#x2212;0.0033&#x2013;0.00005)</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">&#x2212;0.0009 (&#x2212;0.0032&#x2013;0.0013)</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">&#x2212;0.0011 (&#x2212;0.0037&#x2013;0.0015)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">No. of country&#x2013;years</td>
+<td valign="top" align="center">250</td>
+<td valign="top" align="center">245</td>
+<td valign="top" align="center">190</td>
+<td valign="top" align="center">186</td>
+<td valign="top" align="center">270</td>
+<td valign="top" align="center">265</td>
+</tr>
+</tbody>
+</table><table-wrap-foot>
+<p>CI, confidence interval; FDI, foreign direct investment; GDP, gross domestic product.</p>
+<p><sup>a</sup> Model&#x00A0;1: all countries, unadjusted; Model&#x00A0;2: all countries, adjusted; Model&#x00A0;3: all countries except Anglo-Saxon economies (i.e. Australia, Canada, Ireland, New Zealand, the United Kingdom of Great Britain and Northern Ireland and the United States of America), unadjusted; Model&#x00A0;4: all countries except Anglo-Saxon economies, adjusted; Model&#x00A0;5: all countries plus Asian countries (i.e. Japan and the Republic of Korea), unadjusted; Model&#x00A0;6: all countries except Asian countries, adjusted.</p>
+<p><sup>b</sup> Meals and refreshments sold annually per capita in local and transnational fast food outlets, including chain restaurants, independent eateries and convenience stores.</p>
+<p><sup>c</sup> In constant 2005 United States dollars, adjusted for purchasing power parity for comparability between countries.</p>
+<p><sup>d</sup> Imports and exports as a percentage of GDP. </p>
+<p><sup>e</sup> Net inflows as a percentage of GDP.</p>
+<p>Note: The table displays the increase in age-standardized mean BMI associated with a 1-unit increase in annual fast food transactions per capita and in other covariates and with a 10% increase in GDP per capita. All models used robust standard errors clustered by country to reflect non-independence of sampling and robustness to heteroskedasticity and serial correlation. The covariates that were adjusted for in Model&#x00A0;2, Model&#x00A0;4 and Model&#x00A0;6 were GDP per capita, urbanization, openness to trade, FDI and population size.</p>
+<p>Sources: Age-standardized mean BMI: Global Burden of Metabolic Risk Factors of Chronic Diseases Collaborating Group;<xref ref-type="bibr" rid="R1"><sup>1</sup></xref> annual fast food transactions per capita: Euromonitor&#x2019;s Passport Global Market Information Database;<xref ref-type="bibr" rid="R28"><sup>28</sup></xref> GDP per capita, percentage of the population living in urban areas, national population size, openness to trade and FDI: World Bank&#x2019;s World Development Indicators database.<xref ref-type="bibr" rid="R29"><sup>29</sup></xref></p>
+</table-wrap-foot></table-wrap>
+</sec>
+<sec>
+<title>Robustness checks</title>
+<p>Before analysing the influence of market deregulation and the possible mediators between fast food consumption and BMI, we performed a series of robustness checks. When we excluded Anglo-Saxon economies from the model while controlling for the same confounders, we found no significant differences in the magnitude of the association between fast food consumption and BMI (<italic>P</italic>&#x2009;&gt;&#x2009;0.05 when testing effect heterogeneity). Similar results were found when we included Asian countries in the models. We then used first-difference methods to estimate the same basic model developed in <xref ref-type="table" rid="T2">Table&#x00A0;2</xref>, results confirmed the robustness of the fixed effects estimates (<italic>&#x03B2;</italic>:&#x2009;0.0148; 95% CI: 0.0017&#x2013;0.0279). We also disaggregated the analysis by sex and found no significant differences between males (<italic>&#x03B2;</italic>:&#x2009;0.0294; 95% CI: 0.0077&#x2013;0.0512) and females (<italic>&#x03B2;</italic>:&#x2009;0.0360; 95% CI: 0.0183&#x2013;0.0537) in the size of the estimated association (<italic>P</italic>&#x2009;&gt;&#x2009;0.05 when testing for effect heterogeneity). Similar results were obtained when we used per capita transactions only at chain food service outlets as an alternative measure of fast food consumption (<italic>&#x03B2;</italic>:&#x2009;0.0271; 95% CI: 0.0114&#x2013;0.0427). After the inclusion of three additional covariates &#x2013; insufficient physical activity, motor vehicle use per 1000 people and fruit and vegetable consumption &#x2013; the association between fast food and BMI remained statistically significant (<italic>&#x03B2;</italic>:&#x2009;0.0140; 95% CI: 0.0058&#x2013;0.0222). Finally, when we included the Gini index of within country income inequality in the model, the association between fast food consumption and BMI remained strongly significant (<italic>&#x03B2;</italic>: 0.0293; 95% CI: 0.0130&#x2013;0.0456).</p>
+<sec>
+<title>Soft drinks, animal fats and total calories </title>
+<p><xref ref-type="table" rid="T3">Table&#x00A0;3</xref> shows the results of a series of separate regression models using mediators known to be associated with both fast food consumption and BMI. If the association between fast food consumption and BMI is mediated by soft drinks, animal fats and total calories, as we hypothesized, holding these mediators constant should attenuate the observed relationship. Only soft drink consumption, however, appeared to be a plausible partial mediator, by slightly reducing the effect size of the association between fast food consumption and BMI, after correcting for covariates (<italic>&#x03B2;</italic>:&#x2009;0.0302; 95% CI: 0.0101&#x2013;0.0504). Neither the intake of animal fats nor total caloric intake changed the effect size of the observed relationship substantially.</p>
+<table-wrap id="T3" position="float"><?Table Turn2?>
+<label>Table 3</label><caption><title>Soft drink, animal fats and total calorie intake as mediators of the association between fast food consumption and age-standardized mean body mass index (BMI), 1999&#x2013;2008</title></caption>
+<table frame="hsides" rules="groups">
+<col width="205"/>
+<col width="141"/>
+<col width="148"/>
+<col width="155"/>
+<col width="148"/>
+<col width="155"/>
+<col width="148"/>
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="left" scope="col">Variable</th>
+<th colspan="6" valign="top" align="center" scope="colgroup">Age-standardized mean BMI<hr/></th>
+</tr>
+<tr>
+<th valign="top" colspan="1" align="center" scope="colgroup">Model&#x00A0;1<sup>a</sup></th>
+<th valign="top" align="center" scope="col">Model&#x00A0;2<sup>a</sup></th>
+<th valign="top" align="center" scope="col">Model&#x00A0;3<sup>a</sup></th>
+<th valign="top" align="center" scope="col">Model&#x00A0;4<sup>a</sup></th>
+<th valign="top" align="center" scope="col">Model&#x00A0;5<sup>a</sup></th>
+<th valign="top" align="center" scope="col">Model&#x00A0;6<sup>a</sup></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" scope="row">Fast food transactions,<sup>b</sup> <italic>&#x03B2;</italic> (95% CI)</td>
+<td valign="top" align="center">0.0459 (0.0238&#x2013;0.0680)</td>
+<td valign="top" align="center">0.0302 (0.0101&#x2013;0.0504)</td>
+<td valign="top" align="center">0.0650 (0.0426&#x2013;0.0874)</td>
+<td valign="top" align="center">0.0328 (0.0135&#x2013;0.0522) </td>
+<td valign="top" align="center">0.0647 (0.0423&#x2013;0.0871)</td>
+<td valign="top" align="center">0.0327 (0.0131&#x2013;0.0522)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Intake of soft drinks, <italic>&#x03B2;</italic> (95% CI)</td>
+<td valign="top" align="center">0.0058 (0.0034&#x2013;0.0082)</td>
+<td valign="top" align="center">0.0026 (&#x2212;0.0004&#x2013;0.0057)</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">&#x2013;</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Intake of animal fats, <italic>&#x03B2;</italic> (95% CI)</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">&#x2212;0.0008 (&#x2212;0.0018&#x2013;0.0001)</td>
+<td valign="top" align="center">0.0001 (&#x2212;0.0004&#x2013;0.0007)</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">&#x2013;</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Total caloric intake, <italic>&#x03B2;</italic> (95% CI)</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">0.0003 (&#x2212;0.0002&#x2013;0.0008)</td>
+<td valign="top" align="center">0.0006 (&#x2212;0.0002&#x2013;0.0003)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">Fraction of effect due to mediator, %</td>
+<td valign="top" align="center">11.3</td>
+<td valign="top" align="center">8.2</td>
+<td valign="top" align="center">1.2</td>
+<td valign="top" align="center">0.3</td>
+<td valign="top" align="center">1.6</td>
+<td valign="top" align="center">0.6</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">No. of country&#x2013;years</td>
+<td valign="top" align="center">250</td>
+<td valign="top" align="center">245</td>
+<td valign="top" align="center">249</td>
+<td valign="top" align="center">244</td>
+<td valign="top" align="center">249</td>
+<td valign="top" align="center">244</td>
+</tr>
+</tbody>
+</table><table-wrap-foot>
+<p>CI, confidence interval; GDP, gross domestic product.</p>
+<p><sup>a</sup> Model&#x00A0;1, 3 and 5 are unadjusted. Models&#x00A0;2, 4 and 6 are additionally adjusted for log GDP per capita, percentage of population living in urban areas, national population size, openness to trade and foreign direct investment.</p>
+<p><sup>b</sup> Meals and refreshments sold annually per capita in local and transnational fast food outlets, including chain restaurants, independent eateries and convenience stores.</p>
+<p>Note: The table displays the increase in age-standardized mean BMI associated with a 1-unit increase in average number of annual fast food transactions per capita, average intake of soft drinks (in litres per capita per year), average intake of animal fats (in kcal per capita per day) and average total caloric intake (in kcal per capita per day). Models corrected for country-specific fixed effects.</p>
+<p>Sources: Age-standardized mean BMI: Global Burden of Metabolic Risk Factors of Chronic Diseases Collaborating Group;<xref ref-type="bibr" rid="R1"><sup>1</sup></xref> annual fast food transactions per capita: EuroMonitor Passport Global Market Information Database (GMID);<xref ref-type="bibr" rid="R28"><sup>28</sup></xref> intake of soft drinks: GMID;<xref ref-type="bibr" rid="R28"><sup>28</sup></xref> intake of animal fats and total caloric intake: Statistics Division of the Food and Agriculture Organization.<xref ref-type="bibr" rid="R37"><sup>37</sup></xref></p>
+</table-wrap-foot></table-wrap>
+</sec>
+</sec>
+<sec>
+<title>Market deregulation, fast food consumption and BMI</title>
+<p>In spite of the robustness checks, our results could have been driven by third factors affecting both fast food consumption and BMI, such as changes in the macroeconomic environment. Although fixed effects models can cancel out the possible confounding effect of initial, time-invariant, country-specific characteristics, they do not correct for time-varying confounders. To address this problem, we employed two-stage least squares regression models using economic freedom as an instrumental variable. These models allowed us not only to put to further testing the robustness of the fixed-effects estimates in <xref ref-type="table" rid="T2">Table&#x00A0;2</xref>, but also to investigate the role of market deregulation as a determinant of BMI through fast food consumption. Instrumental variables are believed to simulate a natural experiment, and act as a randomization device in dealing with unobserved covariates that, in our case, may be correlated with both fast food consumption and BMI.<xref ref-type="bibr" rid="R41"><sup>41</sup></xref> Valid instruments have at least two major properties. First, they affect the exposure variable we want to test, in this case fast food consumption. Second, they must have no direct effect on the outcome measure, in our case BMI.<xref ref-type="bibr" rid="R41"><sup>41</sup></xref> <xref ref-type="table" rid="T4">Table&#x00A0;4</xref> presents estimates of fixed-effects regression models investigating the associations between the IEF (market deregulation) and fast food consumption and BMI. After adjustment for fast food consumption, the association between the IEF and BMI weakened to non-significance (<italic>P</italic>&#x2009;&gt;&#x2009;0.05), qualifying the IEF as a valid instrument.</p>
+<table-wrap id="T4" position="float"><?Table Large?>
+<label>Table 4</label><caption><title>Associations between the index of economic freedom (IEF)<sup>a</sup> and fast food consumption and age-standardized mean body mass index (BMI), 1999&#x2013;2008</title></caption>
+<table frame="hsides" rules="groups">
+<col width="129"/>
+<col width="153"/>
+<col width="155"/>
+<col width="189"/>
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="left" scope="col">Variable </th>
+<th rowspan="2" valign="top" align="center" scope="col">Fast food transactions<sup>b</sup> (Model&#x00A0;1)<sup>c</sup></th>
+<th colspan="2" valign="top" align="center" scope="colgroup">Age-standardized BMI <hr/></th>
+</tr>
+<tr>
+<th valign="top" colspan="1" align="center" scope="colgroup">Unadjusted (Model&#x00A0;2)<sup>c</sup></th>
+<th valign="top" align="center" scope="col">Adjusted for fast food transactions (Model&#x00A0;3)<sup>c</sup></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" scope="row">IEF, <italic>&#x03B2;</italic> (95% CI)</td>
+<td valign="top" align="center">0.5501 (0.0238&#x2013;0.8610)</td>
+<td valign="top" align="center">0.0396 (0.0224&#x2013;0.0569)</td>
+<td valign="top" align="center">0.0048 (&#x2212;0.0094&#x2013;0.0190)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">No. of country&#x2013;years</td>
+<td valign="top" align="center">250</td>
+<td valign="top" align="center">250</td>
+<td valign="top" align="center">250</td>
+</tr>
+</tbody>
+</table><table-wrap-foot>
+<p>CI, confidence interval. </p>
+<p><sup>a</sup> Created by the Heritage Foundation and the <italic>Wall Street Journal</italic>.<xref ref-type="bibr" rid="R31"><sup>31</sup></xref></p>
+<p><sup>b</sup> Meals and refreshments sold annually per capita in local and transnational fast food outlets, including chain restaurants, independent eateries and convenience stores.</p>
+<p><sup>c</sup> The table displays the increase in annual fast food transactions per capita associated with a 1-unit increase in the IEF (Model&#x00A0;1), the increase in age-standardised BMI associated with a 1-unit increase in the IEF (Model&#x00A0;2), and the increase in age-standardised BMI associated with a 1-unit increase in the IEF after adjustment for annual fast food transactions per capita (Model&#x00A0;3).</p>
+<p>Note: Models were corrected for country-specific fixed effects. All models used robust standard errors clustered by country to reflect non-independence of sampling and robustness to heteroskedasticity and serial correlation.</p>
+<p>Sources: Age-standardized mean BMI: Global Burden of Metabolic Risk Factors of Chronic Diseases Collaborating Group;<xref ref-type="bibr" rid="R1"><sup>1</sup></xref> average annual fast food transactions per capita: Euromonitor&#x2019;s Passport Global Market Information Database.<xref ref-type="bibr" rid="R28"><sup>28</sup></xref> </p>
+</table-wrap-foot></table-wrap>
+<p><xref ref-type="table" rid="T5">Table&#x00A0;5</xref> shows the first-stage and two-stage least square regression models for the effect of fast food consumption on BMI, with the IEF used as an instrument, after adjustment for other covariates. The first-stage regression confirmed that market deregulation is a strong predictor of higher fast food consumption (<italic>&#x03B2;</italic>:&#x2009;0.2714; 95% CI: 0.1644&#x2013;0.3785), after correction for confounders. Each 1-unit increase in the IEF was associated with an increase of 0.2714 in the average number of per capita annual transactions at fast food outlets. The second-stage regression indicated that, when the IEF was used as an instrumental variable for fast food consumption and after correction for confounders, each 1-unit increase in fast food consumption was associated with an increase of 0.0232&#x00A0;kg/m<sup>2</sup> in BMI (95% CI: 0.0011&#x2013;0.0452).</p>
+<table-wrap id="T5" position="float"><?Table Large?>
+<label>Table 5</label><caption><title>Association between fast food consumption and age-standardized body mass index (BMI) using the index of economic freedom (IEF) as an instrumental variable, 1999&#x2013;2008</title></caption>
+<table frame="hsides" rules="groups">
+<col width="202"/>
+<col width="155"/>
+<col width="212"/>
+<thead>
+<tr>
+<th valign="top" align="left" scope="col">Variable</th>
+<th valign="top" align="center" scope="col">Fast food transactions,<sup>a</sup> first stage (Model&#x00A0;1)</th>
+<th valign="top" align="center" scope="col">Age-standardized mean BMI, two-stage least squares (Model&#x00A0;2)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" scope="row">Fast food transactions, <italic>&#x03B2;</italic> (95% CI) </td>
+<td valign="top" align="center">&#x2013;</td>
+<td valign="top" align="center">0.0232 (0.0011&#x2013;0.0452)</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">IEF,<sup>b</sup> <italic>&#x03B2;</italic> (95% CI) </td>
+<td valign="top" align="center">0.2714 (0.1644&#x2013;0.3785)</td>
+<td valign="top" align="center">&#x2013;</td>
+</tr>
+<tr>
+<td valign="top" align="left" scope="row">No. of country&#x2013;years</td>
+<td valign="top" align="center">244</td>
+<td valign="top" align="center">244</td>
+</tr>
+</tbody>
+</table><table-wrap-foot>
+<p>CI, confidence interval. </p>
+<p><sup>a</sup> Meals and refreshments sold annually per capita in local and transnational fast food outlets, including chain restaurants, independent eateries and convenience stores.</p>
+<p><sup>b</sup> Created by the Heritage Foundation and the <italic>Wall Street Journal</italic>.<xref ref-type="bibr" rid="R31"><sup>31</sup></xref></p>
+<p>Note: The table displays the increase in annual fast food transactions per capita associated with a 1-unit increase in the IEF (Model&#x00A0;1), and the increase in age-standardized BMI associated with a 1-unit increase in the number of annual fast food transactions per capita (Model&#x00A0;2) when using the IEF as an instrument for such transactions. Models included country-specific fixed effects using the Stata 12.0 &#x201C;xtivreg&#x201D; command for two-stage least squares regression with panel data. Models were corrected for log gross domestic product (GDP) per capita (in constant 2005 United States dollars, adjusted for purchasing power parity), percentage of the population living in urban areas, national population size, openness to trade (imports and exports as a percentage of GDP), foreign direct investment (net inflows as a percentage of GDP), average intake of soft drinks (in litres per capita per year), average intake of animal fats (in kcal per capita per day) and average total caloric intake (in kcal per capita per day). All models used robust standard errors clustered by country to reflect non-independence of sampling and robustness to heteroskedasticity and serial correlation.</p>
+<p>Sources: Age-standardized mean BMI: Global Burden of Metabolic Risk Factors of Chronic Diseases Collaborating Group;<xref ref-type="bibr" rid="R1"><sup>1</sup></xref> average annual fast food transactions per capita: EuroMonitor Passport Global Market Information Database.<xref ref-type="bibr" rid="R28"><sup>28</sup></xref> </p>
+</table-wrap-foot></table-wrap>
+</sec>
+</sec>
+<sec sec-type="discussion">
+<title>Discussion</title>
+<p>Our study shows that fast food consumption is independently and positively associated with mean BMI in high-income countries. While the consumption of soft drinks explains a small proportion of the variation in the association between fast food consumption and BMI, the intake of animal fats and total caloric intake do not seem to be significant mediators of the association. This is puzzling. The fat and calories in fast food meals are usually blamed for the unhealthful effect of fast food.<xref ref-type="bibr" rid="R42"><sup>42</sup></xref> Although we cannot exclude the possibility of measurement errors, factors other than calories and fat content may explain why fast food makes people fat. Researchers need to investigate, for example, the metabolic effects of long-term exposure to fast foods produced from the meat of animals fed on corn, kept in confinement and exposed to excessive fertilization.<xref ref-type="bibr" rid="R43"><sup>43</sup></xref> Researchers should also examine the health effects of a poor diet, which can lead not only to obesity but also to the development of noncommunicable diseases. More research is also needed to study the effects of the degree of processing of food items and not just their nutrient and caloric content.<xref ref-type="bibr" rid="R44"><sup>44</sup></xref></p>
+<p>In line with previous research,<xref ref-type="bibr" rid="R17"><sup>17</sup></xref> our study shows that countries adopting what are considered market-liberal policies experience faster increases in both fast food consumption and mean BMI. These results are in accord with previous research showing that more stringent trade restrictions &#x2013; including better protection of agricultural producers<xref ref-type="bibr" rid="R45"><sup>45</sup></xref> &#x2013; the frequency of price controls<xref ref-type="bibr" rid="R26"><sup>26</sup></xref> and stricter government regulations<xref ref-type="bibr" rid="R46"><sup>46</sup></xref> are negatively correlated with obesity. The mechanisms explaining the influence of economic freedom on fast food and obesity have not been sufficiently studied. One possibility is that indiscriminate market deregulation favours global food chains at the expense of smaller farmers and local food systems.<xref ref-type="bibr" rid="R47"><sup>47</sup></xref> In effect, additional analyses (available from the corresponding author upon request) showed that, while per capita transactions at chain food service outlets were positively and significantly correlated with mean BMI, this was not the case for per capita transactions at independent food service outlets.</p>
+<p>Our results must be interpreted with caution. First, the IEF reflects perceptual biases because it disproportionately relies on the perspective of investors and the business community.<xref ref-type="bibr" rid="R48"><sup>48</sup></xref> Moreover, it does not necessarily reflect the extent to which market deregulation is applied to the agricultural sector. Our data show, however, that the most &#x201C;market-friendly countries, including Australia, Canada, New Zealand and the United States have less restrictive agricultural regulations and provide substantially lower farm subsidies than European countries such as France, Italy and Greece.<xref ref-type="bibr" rid="R45"><sup>45</sup></xref> Another limitation has to do with the dependent variable, age-standardized mean BMI, which is based on estimates from a Bayesian hierarchical model involving a complex dependence structure for which we could not adjust.<xref ref-type="bibr" rid="R1"><sup>1</sup></xref> In spite of this, the correlation between the BMI measure used in this study and obesity prevalence as obtained from the Global Health Observatory database was very strong. (<italic>r</italic>&#x2009;=&#x2009;0.953; <italic>P</italic>&#x2009;&lt;&#x2009;0.001) (Appendix&#x00A0;D, available at: <ext-link ext-link-type="uri" xlink:href="http://goo.gl/ElLR0z">http://goo.gl/ElLR0z</ext-link>) Although mean BMI may be a biased measure of overweight and obesity, especially because the prevalences of underweight and malnutrition can influence its interpretation, such bias is more likely to affect BMI estimates for low- and middle-income countries. Moreover, a continuous variable like BMI is a more practical indicator than a categorical variable such as obesity because its associations with most health outcomes are continuous, rather than characterized by a specific threshold. An additional limitation relates to the ecological and observational nature of the data. Although confounding can never be completely ruled out, our findings remained robust following numerous estimation methods and statistical checks. Finally, although the magnitude of the association between fast food consumption and BMI weakened substantially under instrumental variable specification, it remained statistically significant.</p>
+</sec>
+<sec sec-type="conclusions">
+<title>Conclusion</title>
+<p>Our study provides novel findings on the association between fast food consumption and mean population BMI and on the influence of market deregulation as a contributor to higher fast food consumption and BMI. The study has important implications for policy. In particular, they suggest that government regulations hindering the spread of fast food consumption might help to mitigate the obesity epidemic. Indeed, although all countries included in our sample have experienced increases in fast food consumption and mean BMI over the period studied (1999&#x2013;2008), nations that have adopted more stringent market regulations have experienced slower increases in both. More research is needed to confirm whether deregulation is a significant contributor to body weight and to determine what types of government interventions could mitigate the obesity epidemic and curb the spread of transnational fast food companies.</p>
+</sec>
+</body>
+<back>
+<ack>
+<title>Acknowledgements</title>
+<p>The authors thank David Stuckler and Sanjay Basu who provided feedback and suggestions on earlier versions of this manuscript.</p>
+</ack>
+<fn-group>
+<title>Funding:</title>
+<fn fn-type="supported-by"><p>RDV is supported by a grant from the Economic and Social Research Council (RES-070-27-0034). No funding bodies had any role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></fn></fn-group>
+<fn-group><title>Competing interests:</title>
+<fn fn-type="financial-disclosure"><p>None declared.</p></fn>
+</fn-group>
+<ref-list>
+<title>References</title>
+<ref id="R1"><label>1</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Finucane</surname><given-names>MM</given-names></name><name><surname>Stevens</surname><given-names>GA</given-names></name><name><surname>Cowan</surname><given-names>MJ</given-names></name><name><surname>Danaei</surname><given-names>G</given-names></name><name><surname>Lin</surname><given-names>JK</given-names></name><name><surname>Paciorek</surname><given-names>CJ</given-names></name><etal/><collab>Global Burden of Metabolic Risk Factors of Chronic Diseases Collaborating Group (Body Mass Index)</collab></person-group><article-title>National, regional, and global trends in body-mass index since 1980: systematic analysis of health examination surveys and epidemiological studies with 960 country-years and 9&#x00B7;1 million participants.</article-title><source>Lancet</source><year>2011</year><volume>377</volume><fpage>557</fpage><lpage>67</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(10)62037-5</pub-id><pub-id pub-id-type="pmid">21295846</pub-id></mixed-citation></ref>
+<ref id="R2"><label>2</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yach</surname><given-names>D</given-names></name><name><surname>Stuckler</surname><given-names>D</given-names></name><name><surname>Brownell</surname><given-names>KD</given-names></name></person-group><article-title>Epidemiologic and economic consequences of the global epidemics of obesity and diabetes.</article-title><source>Nat Med</source><year>2006</year><volume>12</volume><fpage>62</fpage><lpage>6</lpage><pub-id pub-id-type="doi">10.1038/nm0106-62</pub-id><pub-id pub-id-type="pmid">16397571</pub-id></mixed-citation></ref>
+<ref id="R3"><label>3</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stuckler</surname><given-names>D</given-names></name><name><surname>McKee</surname><given-names>M</given-names></name><name><surname>Ebrahim</surname><given-names>S</given-names></name><name><surname>Basu</surname><given-names>S</given-names></name></person-group><article-title>Manufacturing epidemics: the role of global producers in increased consumption of unhealthy commodities including processed foods, alcohol, and tobacco.</article-title><source>PLoS Med</source><year>2012</year><volume>9</volume><fpage>e1001235</fpage><pub-id pub-id-type="doi">10.1371/journal.pmed.1001235</pub-id><pub-id pub-id-type="pmid">22745605</pub-id></mixed-citation></ref>
+<ref id="R4"><label>4</label><mixed-citation publication-type="book"><italic>New Oxford American dictionary.</italic> 3rd ed. Oxford: Oxford University Press; 2010.</mixed-citation></ref>
+<ref id="R5"><label>5</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sturm</surname><given-names>R</given-names></name><name><surname>Datar</surname><given-names>A</given-names></name></person-group><article-title>Body mass index in elementary school children, metropolitan area food prices and food outlet density.</article-title><source>Public Health</source><year>2005</year><volume>119</volume><fpage>1059</fpage><lpage>68</lpage><pub-id pub-id-type="doi">10.1016/j.puhe.2005.05.007</pub-id><pub-id pub-id-type="pmid">16140349</pub-id></mixed-citation></ref>
+<ref id="R6"><label>6</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Anderson</surname><given-names>ML</given-names></name><name><surname>Matsa</surname><given-names>DA</given-names></name></person-group><article-title>Are restaurants really supersizing America?</article-title><source>Am Econ J Appl Econ</source><year>2011</year><volume>3</volume><fpage>152</fpage><lpage>88</lpage><pub-id pub-id-type="doi">10.1257/app.3.1.152</pub-id></mixed-citation></ref>
+<ref id="R7"><label>7</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reidpath</surname><given-names>DD</given-names></name><name><surname>Burns</surname><given-names>C</given-names></name><name><surname>Garrard</surname><given-names>J</given-names></name><name><surname>Mahoney</surname><given-names>M</given-names></name><name><surname>Townsend</surname><given-names>M</given-names></name></person-group><article-title>An ecological study of the relationship between social and environmental determinants of obesity.</article-title><source>Health Place</source><year>2002</year><volume>8</volume><fpage>141</fpage><lpage>5</lpage><pub-id pub-id-type="doi">10.1016/S1353-8292(01)00028-4</pub-id><pub-id pub-id-type="pmid">11943585</pub-id></mixed-citation></ref>
+<ref id="R8"><label>8</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>French</surname><given-names>SA</given-names></name><name><surname>Harnack</surname><given-names>L</given-names></name><name><surname>Jeffery</surname><given-names>RW</given-names></name></person-group><article-title>Fast food restaurant use among women in the Pound of Prevention study: dietary, behavioral and demographic correlates.</article-title><source>Int J Obes Relat Metab Disord</source><year>2000</year><volume>24</volume><fpage>1353</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1038/sj.ijo.0801429</pub-id><pub-id pub-id-type="pmid">11093299</pub-id></mixed-citation></ref>
+<ref id="R9"><label>9</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pereira</surname><given-names>MA</given-names></name><name><surname>Kartashov</surname><given-names>AI</given-names></name><name><surname>Ebbeling</surname><given-names>CB</given-names></name><name><surname>Van Horn</surname><given-names>L</given-names></name><name><surname>Slattery</surname><given-names>ML</given-names></name><name><surname>Jacobs</surname><given-names>DR</given-names><suffix>Jr</suffix></name><etal/></person-group><article-title>Fast-food habits, weight gain, and insulin resistance (the CARDIA study): 15-year prospective analysis.</article-title><source>Lancet</source><year>2005</year><volume>365</volume><fpage>36</fpage><lpage>42</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(04)17663-0</pub-id><pub-id pub-id-type="pmid">15639678</pub-id></mixed-citation></ref>
+<ref id="R10"><label>10</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cummins</surname><given-names>SC</given-names></name><name><surname>McKay</surname><given-names>L</given-names></name><name><surname>MacIntyre</surname><given-names>S</given-names></name></person-group><article-title>McDonald&#x2019;s restaurants and neighborhood deprivation in Scotland and England.</article-title><source>Am J Prev Med</source><year>2005</year><volume>29</volume><fpage>308</fpage><lpage>10</lpage><pub-id pub-id-type="doi">10.1016/j.amepre.2005.06.011</pub-id><pub-id pub-id-type="pmid">16242594</pub-id></mixed-citation></ref>
+<ref id="R11"><label>11</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Block</surname><given-names>JP</given-names></name><name><surname>Scribner</surname><given-names>RA</given-names></name><name><surname>DeSalvo</surname><given-names>KB</given-names></name></person-group><article-title>Fast food, race/ethnicity, and income: a geographic analysis.</article-title><source>Am J Prev Med</source><year>2004</year><volume>27</volume><fpage>211</fpage><lpage>7</lpage><pub-id pub-id-type="pmid">15450633</pub-id></mixed-citation></ref>
+<ref id="R12"><label>12</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pearce</surname><given-names>J</given-names></name><name><surname>Hiscock</surname><given-names>R</given-names></name><name><surname>Blakely</surname><given-names>T</given-names></name><name><surname>Witten</surname><given-names>K</given-names></name></person-group><article-title>A national study of the association between neighbourhood access to fast-food outlets and the diet and weight of local residents.</article-title><source>Health Place</source><year>2009</year><volume>15</volume><fpage>193</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.1016/j.healthplace.2008.04.003</pub-id><pub-id pub-id-type="pmid">18499502</pub-id></mixed-citation></ref>
+<ref id="R13"><label>13</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Maddock</surname><given-names>J</given-names></name></person-group><article-title>The relationship between obesity and the prevalence of fast food restaurants: state-level analysis.</article-title><source>Am J Health Promot</source><year>2004</year><volume>19</volume><fpage>137</fpage><lpage>43</lpage><pub-id pub-id-type="doi">10.4278/0890-1171-19.2.137</pub-id><pub-id pub-id-type="pmid">15559714</pub-id></mixed-citation></ref>
+<ref id="R14"><label>14</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fantasia</surname><given-names>R</given-names></name></person-group><article-title>Fast food in France.</article-title><source>Theory Society</source><year>1995</year><volume>24</volume><fpage>201</fpage><lpage>43</lpage><pub-id pub-id-type="doi">10.1007/BF00993397</pub-id></mixed-citation></ref>
+<ref id="R15"><label>15</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>DeBres</surname><given-names>K</given-names></name></person-group><article-title>Burgers for Britain: a cultural geography of McDonald&apos;s UK.</article-title><source>J Cultural Geogr</source><year>2005</year><volume>22</volume><fpage>115</fpage><lpage>39</lpage><pub-id pub-id-type="doi">10.1080/08873630509478241</pub-id></mixed-citation></ref>
+<ref id="R16"><label>16</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rabin</surname><given-names>BA</given-names></name><name><surname>Boehmer</surname><given-names>TK</given-names></name><name><surname>Brownson</surname><given-names>RC</given-names></name></person-group><article-title>Cross-national comparison of environmental and policy correlates of obesity in Europe.</article-title><source>Eur J Public Health</source><year>2007</year><volume>17</volume><fpage>53</fpage><lpage>61</lpage><pub-id pub-id-type="doi">10.1093/eurpub/ckl073</pub-id><pub-id pub-id-type="pmid">16751632</pub-id></mixed-citation></ref>
+<ref id="R17"><label>17</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Offer</surname><given-names>A</given-names></name><name><surname>Pechey</surname><given-names>R</given-names></name><name><surname>Ulijaszek</surname><given-names>S</given-names></name></person-group><article-title>Obesity under affluence varies by welfare regimes: the effect of fast food, insecurity, and inequality.</article-title><source>Econ Hum Biol</source><year>2010</year><volume>8</volume><fpage>297</fpage><lpage>308</lpage><pub-id pub-id-type="doi">10.1016/j.ehb.2010.07.002</pub-id><pub-id pub-id-type="pmid">20801725</pub-id></mixed-citation></ref>
+<ref id="R18"><label>18</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>De Vogli</surname><given-names>R</given-names></name><name><surname>Kouvonen</surname><given-names>A</given-names></name><name><surname>Gimeno</surname><given-names>D</given-names></name></person-group><article-title>&#x2018;Globesization&#x2019;: ecological evidence on the relationship between fast food outlets and obesity among 26 advanced economies.</article-title><source>Crit Public Health</source><year>2011</year><volume>21</volume><fpage>395</fpage><lpage>402</lpage><pub-id pub-id-type="doi">10.1080/09581596.2011.619964</pub-id></mixed-citation></ref>
+<ref id="R19"><label>19</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Basu</surname><given-names>S</given-names></name><name><surname>McKee</surname><given-names>M</given-names></name><name><surname>Galea</surname><given-names>G</given-names></name><name><surname>Stuckler</surname><given-names>D</given-names></name></person-group><article-title>Relationship of soft drink consumption to global overweight, obesity and diabetes: a cross-national analysis of 75 countries.</article-title><source>Am J Public Health</source><year>2013</year><fpage>e1</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.2105/AJPH.2012.300974</pub-id></mixed-citation></ref>
+<ref id="R20"><label>20</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thow</surname><given-names>AM</given-names></name><name><surname>Hawkes</surname><given-names>C</given-names></name></person-group><article-title>The implications of trade liberalization for diet and health: a case study from Central America.</article-title><source>Global Health</source><year>2009</year><volume>5</volume><fpage>5</fpage><pub-id pub-id-type="doi">10.1186/1744-8603-5-5</pub-id><pub-id pub-id-type="pmid">19638196</pub-id></mixed-citation></ref>
+<ref id="R21"><label>21</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rayner</surname><given-names>G</given-names></name><name><surname>Hawkes</surname><given-names>C</given-names></name><name><surname>Lang</surname><given-names>T</given-names></name><name><surname>Bello</surname><given-names>W</given-names></name></person-group><article-title>Trade liberalization and the diet transition: a public health response.</article-title><source>Health Promot Int</source><year>2006</year><volume>21</volume><supplement>Suppl 1</supplement><fpage>67</fpage><lpage>74</lpage><pub-id pub-id-type="doi">10.1093/heapro/dal053</pub-id><pub-id pub-id-type="pmid">17307959</pub-id></mixed-citation></ref>
+<ref id="R22"><label>22</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hawkes</surname><given-names>C</given-names></name></person-group><article-title>Uneven dietary development: linking the policies and processes of globalization with the nutrition transition, obesity and diet-related chronic diseases.</article-title><source>Global Health</source><year>2006</year><volume>2</volume><fpage>4</fpage><pub-id pub-id-type="doi">10.1186/1744-8603-2-4</pub-id><pub-id pub-id-type="pmid">16569239</pub-id></mixed-citation></ref>
+<ref id="R23"><label>23</label><mixed-citation publication-type="book">Dreher A, Gaston N, Martens P. <italic>Measuring globalisation: gauging its consequences</italic>. New York: Springer; 2008.</mixed-citation></ref>
+<ref id="R24"><label>24</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><collab>PLoS Medicine Editors</collab></person-group><article-title>PLoS Medicine series on Big Food: the food industry is ripe for scrutiny.</article-title><source>PLoS Med</source><year>2012</year><volume>9</volume><fpage>e1001246</fpage><pub-id pub-id-type="doi">10.1371/journal.pmed.1001246</pub-id><pub-id pub-id-type="pmid">22723749</pub-id></mixed-citation></ref>
+<ref id="R25"><label>25</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hawkes</surname><given-names>C</given-names></name></person-group><article-title>The role of foreign direct investment in the nutrition transition.</article-title><source>Public Health Nutr</source><year>2005</year><volume>8</volume><fpage>357</fpage><lpage>65</lpage><pub-id pub-id-type="doi">10.1079/PHN2004706</pub-id><pub-id pub-id-type="pmid">15975180</pub-id></mixed-citation></ref>
+<ref id="R26"><label>26</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cutler</surname><given-names>DM</given-names></name><name><surname>Glaeser</surname><given-names>EL</given-names></name><name><surname>Shapiro</surname><given-names>JM</given-names></name></person-group><article-title>Why have Americans become more obese?</article-title><source>J Econometric Persp</source><year>2003</year><volume>17</volume><fpage>93</fpage><lpage>118</lpage><pub-id pub-id-type="doi">10.1257/089533003769204371</pub-id></mixed-citation></ref>
+<ref id="R27"><label>27</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Deurenberg</surname><given-names>P</given-names></name><name><surname>Yap</surname><given-names>M</given-names></name><name><surname>van Staveren</surname><given-names>WA</given-names></name></person-group><article-title>Body mass index and percent body fat: a meta analysis among different ethnic groups.</article-title><source>Int J Obes Relat Metab Disord</source><year>1998</year><volume>22</volume><fpage>1164</fpage><lpage>71</lpage><pub-id pub-id-type="doi">10.1038/sj.ijo.0800741</pub-id><pub-id pub-id-type="pmid">9877251</pub-id></mixed-citation></ref>
+<ref id="R28"><label>28</label><mixed-citation publication-type="web">Euromonitor International [Internet]. Passport Global Market Information Database. Available from: <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.euromonitor.com">http://www.euromonitor.com</ext-link> [accessed 2 October 2013].</mixed-citation></ref>
+<ref id="R29"><label>29</label><mixed-citation publication-type="book">The World Bank [Internet]. World development indicators. Washington: World Bank; 2012. Available from: <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://data.worldbank.org/data-catalog/world-development-indicators">http://data.worldbank.org/data-catalog/world-development-indicators</ext-link> [accessed 2 October 2013].</mixed-citation></ref>
+<ref id="R30"><label>30</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Coleman</surname><given-names>WD</given-names></name></person-group><article-title>From protected development to market liberalism: paradigm change in agriculture.</article-title><source>J European Public Policy</source><year>1998</year><volume>5</volume><fpage>632</fpage><lpage>51</lpage><pub-id pub-id-type="doi">10.1080/13501769880000061</pub-id></mixed-citation></ref>
+<ref id="R31"><label>31</label><mixed-citation publication-type="book">Miller T, Holmes K. <italic>Index of economic freedom: the link between economic opportunity and prosperity</italic>. Washington: Heritage Foundation; 2009.</mixed-citation></ref>
+<ref id="R32"><label>32</label><mixed-citation publication-type="web">World Health Organization [Internet]. WHO Global InfoBase. Geneva: WHO; 2013. Available from: <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.who.int/ncd_surveillance/infobase/en/">http://www.who.int/ncd_surveillance/infobase/en/</ext-link> [accessed 2 October 2013]. </mixed-citation></ref>
+<ref id="R33"><label>33</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pickett</surname><given-names>KE</given-names></name><name><surname>Kelly</surname><given-names>S</given-names></name><name><surname>Brunner</surname><given-names>E</given-names></name><name><surname>Lobstein</surname><given-names>T</given-names></name><name><surname>Wilkinson</surname><given-names>RG</given-names></name></person-group><article-title>Wider income gaps, wider waistbands? An ecological study of obesity and income inequality.</article-title><source>J Epidemiol Community Health</source><year>2005</year><volume>59</volume><fpage>670</fpage><lpage>4</lpage><pub-id pub-id-type="doi">10.1136/jech.2004.028795</pub-id><pub-id pub-id-type="pmid">16020644</pub-id></mixed-citation></ref>
+<ref id="R34"><label>34</label><mixed-citation publication-type="book">Wilkinson R, Pickett K. <italic>The spirit level: why greater equality makes societies stronger.</italic> New York: Bloomsbury Press; 2009.</mixed-citation></ref>
+<ref id="R35"><label>35</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Solt</surname><given-names>F</given-names></name></person-group><article-title>Standardizing the world income inequality database.</article-title><source>Soc Sci Q</source><year>2009</year><volume>90</volume><fpage>231</fpage><lpage>42</lpage><pub-id pub-id-type="doi">10.1111/j.1540-6237.2009.00614.x</pub-id></mixed-citation></ref>
+<ref id="R36"><label>36</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Deininger</surname><given-names>K</given-names></name><name><surname>Squire</surname><given-names>L</given-names></name></person-group><article-title>A new dataset measuring income inequality.</article-title><source>World Bank Econ Rev</source><year>1996</year><volume>10</volume><fpage>565</fpage><lpage>91</lpage><pub-id pub-id-type="doi">10.1093/wber/10.3.565</pub-id></mixed-citation></ref>
+<ref id="R37"><label>37</label><mixed-citation publication-type="book"><italic>FAOSTAT Statistical Database</italic>. Rome: Food and Agriculture Organization of the United Nations; 2012.</mixed-citation></ref>
+<ref id="R38"><label>38</label><mixed-citation publication-type="book">Baltagi B. <italic>Econometric analysis of panel data</italic>. 4th ed. Chichester: John Wiley &amp; Sons; 2008.</mixed-citation></ref>
+<ref id="R39"><label>39</label><mixed-citation publication-type="book">Wooldridge J. Advanced panel data methods. In: Wooldridge J, editor. <italic>Introductory econometrics: a modern approach</italic>. Mason: South-Western Cengage Learning; 2009. p. 489.</mixed-citation></ref>
+<ref id="R40"><label>40</label><mixed-citation publication-type="book">Greene WH. <italic>Econometric analysis.</italic> 5th ed. Upper Saddle River: Prentice Hall; 2012.</mixed-citation></ref>
+<ref id="R41"><label>41</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Angrist</surname><given-names>J</given-names></name><name><surname>Imbens</surname><given-names>G</given-names></name><name><surname>Rubin</surname><given-names>D</given-names></name></person-group><article-title>Identification of causal effects using instrumental variables.</article-title><source>J Am Stat Assoc</source><year>1996</year><volume>91</volume><fpage>444</fpage><lpage>55</lpage><pub-id pub-id-type="doi">10.1080/01621459.1996.10476902</pub-id></mixed-citation></ref>
+<ref id="R42"><label>42</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dunford</surname><given-names>E</given-names></name><name><surname>Webster</surname><given-names>J</given-names></name><name><surname>Barzi</surname><given-names>F</given-names></name><name><surname>Neal</surname><given-names>B</given-names></name></person-group><article-title>Nutrient content of products served by leading Australian fast food chains.</article-title><source>Appetite</source><year>2010</year><volume>55</volume><fpage>484</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1016/j.appet.2010.08.015</pub-id><pub-id pub-id-type="pmid">20816711</pub-id></mixed-citation></ref>
+<ref id="R43"><label>43</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jahren</surname><given-names>AH</given-names></name><name><surname>Kraft</surname><given-names>RA</given-names></name></person-group><article-title>Carbon and nitrogen stable isotopes in fast food: signatures of corn and confinement.</article-title><source>Proc Natl Acad Sci U S A</source><year>2008</year><volume>105</volume><fpage>17855</fpage><lpage>60</lpage><pub-id pub-id-type="doi">10.1073/pnas.0809870105</pub-id><pub-id pub-id-type="pmid">19001276</pub-id></mixed-citation></ref>
+<ref id="R44"><label>44</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Monteiro</surname><given-names>CA</given-names></name></person-group><article-title>Nutrition and health. The issue is not food, nor nutrients, so much as processing.</article-title><source>Public Health Nutr</source><year>2009</year><volume>12</volume><fpage>729</fpage><lpage>31</lpage><pub-id pub-id-type="doi">10.1017/S1368980009005291</pub-id><pub-id pub-id-type="pmid">19366466</pub-id></mixed-citation></ref>
+<ref id="R45"><label>45</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Alston</surname><given-names>JM</given-names></name><name><surname>Sumner</surname><given-names>DA</given-names></name><name><surname>Vosti</surname><given-names>SA</given-names></name></person-group><article-title>Farm subsidies and obesity in the United States: national evidence and international comparisons.</article-title><source>Food Policy</source><year>2008</year><volume>33</volume><fpage>470</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1016/j.foodpol.2008.05.008</pub-id></mixed-citation></ref>
+<ref id="R46"><label>46</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bleich</surname><given-names>S</given-names></name><name><surname>Cutler</surname><given-names>D</given-names></name><name><surname>Murray</surname><given-names>C</given-names></name><name><surname>Adams</surname><given-names>A</given-names></name></person-group><article-title>Why is the developed world obese?</article-title><source>Annu Rev Public Health</source><year>2008</year><volume>29</volume><fpage>273</fpage><lpage>95</lpage><pub-id pub-id-type="doi">10.1146/annurev.publhealth.29.020907.090954</pub-id><pub-id pub-id-type="pmid">18173389</pub-id></mixed-citation></ref>
+<ref id="R47"><label>47</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Monteiro</surname><given-names>CA</given-names></name><name><surname>Cannon</surname><given-names>G</given-names></name></person-group><article-title>The impact of transnational &#x201C;big food&#x201D; companies on the South: a view from Brazil.</article-title><source>PLoS Med</source><year>2012</year><volume>9</volume><fpage>e1001252</fpage><pub-id pub-id-type="doi">10.1371/journal.pmed.1001252</pub-id><pub-id pub-id-type="pmid">22802732</pub-id></mixed-citation></ref>
+<ref id="R48"><label>48</label><mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurtz</surname><given-names>MJ</given-names></name><name><surname>Schrank</surname><given-names>A</given-names></name></person-group><article-title>Growth and governance: models, measures and mechanisms.</article-title><source>J Politics</source><year>2007</year><volume>69</volume><fpage>538</fpage><lpage>54</lpage><pub-id pub-id-type="doi">10.1111/j.1468-2508.2007.00549.x</pub-id></mixed-citation></ref>
+<ref id="R49"><label>49</label><mixed-citation publication-type="web">World Health Organization. Global Health Observatory: the data repository. [Internet]. Available from: <ext-link ext-link-type="uri" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.who.int/gho/database/en/">www.who.int/gho/database/en/</ext-link> [accessed 2 October 2013].</mixed-citation></ref>
+<ref id="R50"><label>50</label><mixed-citation publication-type="book">Baum CF. <italic>An introduction to modern econometrics using STATA.</italic> College Station: Stata Press; 2006.</mixed-citation></ref>
+</ref-list>
+</back>
+</article>

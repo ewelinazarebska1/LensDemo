@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lens", "Lens\Lens.csproj", "{B054C00C-1D25-45AD-B7B3-7C87B29BC5FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B054C00C-1D25-45AD-B7B3-7C87B29BC5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B054C00C-1D25-45AD-B7B3-7C87B29BC5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B054C00C-1D25-45AD-B7B3-7C87B29BC5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B054C00C-1D25-45AD-B7B3-7C87B29BC5FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B7B1E6F-2FD4-4D55-889E-73A7BAE62F0D}
+	EndGlobalSection
+EndGlobal
